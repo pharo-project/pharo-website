@@ -1,0 +1,15 @@
+on:
+  push:
+name: publish
+jobs:
+  generate:
+    name: "Generate static HTML"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Generate static HTML"
+        id: generate
+        uses: estebanlm/foliage-action@v1
+        with:
+          source: "."
+          target: "generated"
+
