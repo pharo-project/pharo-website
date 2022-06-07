@@ -1,0 +1,10 @@
+<ul class="nav navbar-nav">
+    <li><a href="/news" class="{{#news-active}}active{{/news-active}}">News</a></li>
+    <li><a href="/features"  class="{{#features-active}}active{{/features-active}}">Features</a></li>
+    <li><a href="/download"  class="{{#download-active}}active{{/download-active}}">Download</a></li>
+    <li><a href="/documentation"  class="{{#documentation-active}}active{{/documentation-active}}">Documentation</a></li>
+    <li><a href="/community"  class="{{#community-active}}active{{/community-active}}">Community</a></li>
+    <li><a href="/contribute"  class="{{#contribute-active}}active{{/contribute-active}}">Contribute</a></li>
+    <li><a href="/success"  class="{{#success-active}}active{{/success-active}}">Stories</a></li>
+    <li><a href="/about"  class="{{#about-active}}active{{/about-active}}">About</a></li>
+</ul>

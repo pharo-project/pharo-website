@@ -1,0 +1,1 @@
+title: homelayout: defaultpublishDate: "2016-05-10"We have a new website! [http://pharo.org](http://pharo.org). 
