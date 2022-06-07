@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: "Generate static HTML"
         id: generate
-        uses: estebanlm/foliage-action@v3
+        uses: estebanlm/foliage-action
         with:
           source: "."
           target: "generated"
