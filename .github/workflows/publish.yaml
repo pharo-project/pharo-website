@@ -10,5 +10,5 @@ jobs:
         id: generate
         uses: estebanlm/foliage-action@main
         with:
-          source: "/github/workspace"
-          target: "/github/workspace/generated"
+          source: "/home/runner/work/pharo-site/pharo-site"
+          target: "/github/workspace"
