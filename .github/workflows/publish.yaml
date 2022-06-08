@@ -6,6 +6,7 @@ jobs:
     name: "Generate static HTML"
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: "Generate static HTML"
         id: generate
         uses: estebanlm/foliage-action@main
