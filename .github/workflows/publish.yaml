@@ -3,13 +3,9 @@ on:
 name: publish
 jobs:
   generate:
-    name: "Generate static HTML"
+    name: "Generate site"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: "Generate static HTML"
-        id: generate
+        uses: actions/checkout@v2
+      - name: Generate static HTML
         uses: estebanlm/foliage-action@main
-        with:
-          source: "/home/runner/work/pharo-site/pharo-site"
-          target: "/github/workspace"
