@@ -9,5 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
-      - name: Generate static HTML
-        uses: estebanlm/foliage-action@main
+      - name: "Generate static HTML"
+        uses: estebanlm/foliage-action@v1
+      - name: "Upload to server"
+        uses: easingthemes/ssh-deploy@v2.2.11
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rltgoDzvO"
+          SOURCE: "generated/"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
+#          EXCLUDE: "/dist/, /node_modules/"
