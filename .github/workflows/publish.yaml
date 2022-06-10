@@ -12,13 +12,11 @@ jobs:
       - name: "Generate static HTML"
         uses: estebanlm/foliage-action@v1
       - name: "Upload to server"
-        uses: easingthemes/ssh-deploy@v2.2.11
+        uses: up9cloud/action-rsync@v1.3
         env:
-          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
-#          ARGS: "-rltgoDzvO"
-          ARGS: "-av"
-          SOURCE: "generated"
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          KEY: ${{ secrets.SERVER_SSH_KEY }}
+          USER: ${{ secrets.REMOTE_USER }}
+          HOST: ${{ secrets.REMOTE_HOST }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
+          SOURCE: "generated"
 #          EXCLUDE: "/dist/, /node_modules/"
