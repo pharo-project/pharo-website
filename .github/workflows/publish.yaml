@@ -19,4 +19,4 @@ jobs:
           HOST: ${{ secrets.REMOTE_HOST }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           SOURCE: "generated"
-#          EXCLUDE: "/dist/, /node_modules/"
+          VERBOSE: true
