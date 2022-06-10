@@ -17,6 +17,6 @@ jobs:
           KEY: ${{ secrets.SERVER_SSH_KEY }}
           USER: ${{ secrets.REMOTE_USER }}
           HOST: ${{ secrets.REMOTE_HOST }}
-          ARGS: -avz --exclude=/.git/ --exclude=/.github/
           TARGET: ${{ secrets.REMOTE_TARGET }}
           SOURCE: generated/
+          POST_SCRIPT: "cd ${{ secrets.REMOTE_TARGET }} && ln -s . web"
