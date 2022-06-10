@@ -19,4 +19,5 @@ jobs:
           HOST: ${{ secrets.REMOTE_HOST }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           SOURCE: "generated"
+          SSH_ARGS: '-p 22 -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o LogLevel=VERBOSE'
           VERBOSE: true
