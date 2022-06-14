@@ -1,0 +1,25 @@
+name: publish
+
+on:
+  push:
+    branches: [ staging ]
+  pull_request:
+    branches: [ staging ]
+
+jobs:
+  generate: 
+    name: "Generate site"
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+      - name: "Generate static HTML"
+        uses: estebanlm/foliage-action@v1
+      - name: "Upload to server"
+        uses: up9cloud/action-rsync@v1.3
+        env:
+          KEY: ${{ secrets.SERVER_SSH_KEY }}
+          USER: ${{ secrets.REMOTE_USER }}
+          HOST: ${{ secrets.REMOTE_HOST }}
+          TARGET: ${{ secrets.REMOTE_STAGING_TARGET }}
+          SOURCE: generated/
+          POST_SCRIPT: "cd ${{ secrets.REMOTE_TARGET }} && ln -s . web"
