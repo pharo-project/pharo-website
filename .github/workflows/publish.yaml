@@ -1,7 +1,10 @@
+name: publish
+
 on:
   push:
-
-name: publish
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   generate: 
