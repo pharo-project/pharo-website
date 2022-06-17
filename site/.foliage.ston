@@ -1,8 +1,5 @@
 Foliage {
 	#baseUri: 'http://pharo.org',
-	#targetPath: '../html',
-	#sourcePath: '.',
-	#templatePath: 'templates',
 	#blogs: [ 
 		'news': 'Pharo News', 
 		'success': 'Pharo Success Stories' 
