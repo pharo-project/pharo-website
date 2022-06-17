@@ -13,7 +13,9 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1
+        uses: estebanlm/foliage-action@v1.1
+        with:
+          source: 'site'
       - name: "Upload to server"
         uses: up9cloud/action-rsync@v1.3
         env:
