@@ -84,6 +84,9 @@ While there is a [zeroconf](https://get.pharo.org) installation that works for m
 ![](https://software.opensuse.org/assets/download/opensuse-7d99f0ac15667145b8611ca67f8a551f5f010c98cb2e89cc38bdefa9e6ee3321.png)</div>
 
 <div class="col-xs-2">
+![](https://software.opensuse.org/assets/download/raspbian-975d66c4773377e550011409391bb441fe614aba38fa5b9aa813cf74bb3b8f4e.png)</div>
+
+<div class="col-xs-2">
 ![](https://software.opensuse.org/assets/download/ubuntu-482a9f0e811541ab84d51428fade325ab4a34ddf326c35091c8d81e86f96d61d.png)</div>
 
 </div>
