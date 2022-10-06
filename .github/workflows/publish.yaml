@@ -13,7 +13,7 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.2
+        uses: estebanlm/foliage-action@v1.3
         with:
           source: './site'
           target: 'generated'
