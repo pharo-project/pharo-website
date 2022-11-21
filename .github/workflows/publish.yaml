@@ -10,6 +10,7 @@ jobs:
   generate: 
     name: "Generate site"
     runs-on: ubuntu-latest
+    environment: public
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
