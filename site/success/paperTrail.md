@@ -11,7 +11,7 @@ action items for each team over time, hence the name Paper Trail.
 
 
 
-%![](http://files.pharo.org/success-stories/images//2017-321via-1.png width=800px)
+%![](http://files.pharo.org/success-stories/images/2017-321via-1.png width=800px)
 
 _The flexibility given by Pharo and its excellent support for Agile Development is a huge productivity boost.
 It helps us to adapt to customer needs and deliver high quality products._ said J. van Alteren CEO of [ObjectGuild](https://objectguild.com/)
