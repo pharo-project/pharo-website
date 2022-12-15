@@ -16,8 +16,6 @@ jobs:
         with:
           source: './site'
           target: 'generated'
-      - name: 'Ping'
-        run: 'ping -6 ${{ secrets.REMOTE_HOST }}'
       - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
