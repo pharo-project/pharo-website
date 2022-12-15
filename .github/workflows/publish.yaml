@@ -15,8 +15,10 @@ jobs:
         with:
           source: './site'
           target: 'generated'
-      - name: 'PING'
-        run: 'ping -4 -c 4 ${{secrets.REMOTE_HOST}}'
+      - name: 'PING1'
+        run: 'ping -4 -c 4 cluster023.hosting.ovh.net || true'
+      - name: 'PING1'
+        run: 'ping -4 -c 4 files.pharo.org'
       - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
