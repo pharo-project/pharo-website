@@ -15,8 +15,8 @@ jobs:
         with:
           source: './site'
           target: 'generated'
-      - name: 'PING1'
-        run: 'ping -4 -c 4 smallworks.eu'
+      - name: 'PING'
+        run: 'ping -4 -c 4 google.com'
       - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
