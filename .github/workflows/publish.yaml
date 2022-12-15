@@ -8,6 +8,7 @@ jobs:
   generate: 
     name: "Generate site"
     runs-on: ubuntu-latest
+    environment: production
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
