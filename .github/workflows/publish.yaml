@@ -16,21 +16,13 @@ jobs:
           source: './site'
           target: 'generated'
       - name: "Upload to server"
-        uses: D3rHase/rsync-deploy-action@v0.2
-        with:
-          HOST: ${{secrets.REMOTE_HOST}}
-          USER: ${{secrets.REMOTE_USER}}
-          PRIVATE_SSH_KEY: ${{secrets.SERVER_SSH_KEY}}
-          REPOSITORY_PATH: generated/
-          SERVER_PATH: ${{secrets.REMOTE_TARGET}}   
-#      - name: "Upload to server"
-#        uses: up9cloud/action-rsync@v1.3
-#        env:
-#          KEY: ${{ secrets.SERVER_SSH_KEY }}
-#          USER: ${{ secrets.REMOTE_USER }}
-#          HOST: ${{ secrets.REMOTE_HOST }}
-#          TARGET: ${{ secrets.REMOTE_TARGET }}
-#          SOURCE: generated/
-#          ARGS_MORE: -4
-#          VERBOSE: true
-#          POST_SCRIPT: "cd ${{ secrets.REMOTE_TARGET }} && ln -s . web"	
+        uses: up9cloud/action-rsync@v1.3
+        env:
+          KEY: ${{ secrets.SERVER_SSH_KEY }}
+          USER: ${{ secrets.REMOTE_USER }}
+          HOST: ${{ secrets.REMOTE_HOST }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
+          SOURCE: generated/
+          ARGS_MORE: -4
+          VERBOSE: true
+          POST_SCRIPT: "cd ${{ secrets.REMOTE_TARGET }} && ln -s . web"	
