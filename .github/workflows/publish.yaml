@@ -16,7 +16,7 @@ jobs:
           source: './site'
           target: 'generated'
       - name: "Upload to server"
-        uses: D3rHase/rsync-deploy-action@latest
+        uses: D3rHase/rsync-deploy-action@v0.2
         with:
           HOST: ${{secrets.REMOTE_HOST}}
           USER: ${{secrets.REMOTE_USER}}
