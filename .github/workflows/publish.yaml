@@ -20,6 +20,7 @@ jobs:
         uses: estebanlm/rsync-deploy-action@main
         with: 
           HOST: ${{secrets.REMOTE_HOST}}
+          PORT: 22
           USER: ${{secrets.REMOTE_USER}}
           PRIVATE_SSH_KEY: ${{secrets.SERVER_SSH_KEY}}
           REPOSITORY_PATH: "generated/"
