@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
-      - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.3
-        with:
-          source: './site'
-          target: 'generated'
+#      - name: "Generate static HTML"
+#        uses: estebanlm/foliage-action@v1.3
+#        with:
+#          source: './site'
+#          target: 'generated'
       - name: 'ping'
-        run: 'ping -c 4 ${{secrets.REMOTE_HOST}}'
+        run: 'ping -c 4 ${{secrets.REMOTE_HOST}} || ping -c 4 smallworks.eu || true'
       - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
