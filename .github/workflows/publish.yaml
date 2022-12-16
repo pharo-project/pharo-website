@@ -8,7 +8,12 @@ jobs:
   generate: 
     name: "Generate site"
     runs-on: ubuntu-latest
-    environment: production
+    container:
+      image: node:14.16
+      ports:
+        - 22:22
+        - 80:80
+        - 443:443
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
