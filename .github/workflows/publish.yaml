@@ -15,7 +15,7 @@ jobs:
         with:
           source: './site'
           target: 'generated'
-#      - name: "Upload to server"
+      - name: "Upload to server"
 #        uses: estebanlm/rsync-deploy-action@main
 #        with: 
 #          HOST: ${{secrets.REMOTE_HOST}}
