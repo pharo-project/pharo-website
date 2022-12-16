@@ -15,15 +15,10 @@ jobs:
         with:
           source: './site'
           target: 'generated'
-      - name: ssh
-        uses: ryanchapman/gha-ssh@v1
-        with:
-          authorized_github_users: estebanlm
-      - name: "Upload to server"
+i      - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
           HOST: ${{secrets.REMOTE_HOST}}
-          PORT: 23
           USER: ${{secrets.REMOTE_USER}}
           PRIVATE_SSH_KEY: ${{secrets.SERVER_SSH_KEY}}
           REPOSITORY_PATH: "generated/"
