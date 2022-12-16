@@ -8,12 +8,6 @@ jobs:
   generate: 
     name: "Generate site"
     runs-on: ubuntu-latest
-    container:
-      image: node:14.16
-      ports:
-        - 22:22
-        - 80:80
-        - 443:443
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
@@ -29,6 +23,7 @@ jobs:
         uses: estebanlm/rsync-deploy-action@main
         with: 
           HOST: ${{secrets.REMOTE_HOST}}
+          PORT: 23
           USER: ${{secrets.REMOTE_USER}}
           PRIVATE_SSH_KEY: ${{secrets.SERVER_SSH_KEY}}
           REPOSITORY_PATH: "generated/"
