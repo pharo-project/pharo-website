@@ -16,6 +16,10 @@ jobs:
         with:
           source: './site'
           target: 'generated'
+      - name: ssh
+        uses: ryanchapman/gha-ssh@v1
+        with:
+          authorized_github_users: estebanlm
       - name: "Upload to server"
         uses: estebanlm/rsync-deploy-action@main
         with: 
