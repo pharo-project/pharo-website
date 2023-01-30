@@ -4,7 +4,7 @@ publishDate: "2022-11-16"
 
 Sea Ranger Service - World's first maritime ranger service!
 
-%![](/web/files/success/2022-ObjectGuild-paper-trail-meeting.png width=600px)
+![](/web/files/success/2022-ObjectGuild-paper-trail-meeting.png width=600px)
 
 For the Sea Rangers, we created a platform named Paper Trail in which every team member has a clear overview of all the 
 agendas of meetings they attend. Every meeting follows our accountability format. Agenda points are easily recorded centrally by 
