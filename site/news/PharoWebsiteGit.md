@@ -1,4 +1,4 @@
-title: New: Pharo Website source now on GitHub
+title: Pharo Website source now on GitHub
 layout: blogpost
 publishDate: "2023-02-01"
 
