@@ -31,10 +31,14 @@ If you have any question regarding Pharo, do not hesitate to post in the Pharo m
 ## Twitter
 
 - Follow the official 
-  - tweet of Pharo: [@pharoproject](https://twitter.com/pharoproject)
-  - mastodon: [@pharoproject@mastodon.social](https://mastodon.social/@pharoproject)
+  - tweet of Pharo: [@pharoproject](https://twitter.com/pharoproject)  
 - You can suggest tweets with this [Form](https://app.apptivegrid.de/api/r/612605fabe7d991c4f888815/6183da37558280637b8cf0cd)
 
+## Mastadon
+
+- Follow the official 
+-- mastodon: [@pharoproject@mastodon.social](https://mastodon.social/@pharoproject)
+- You can suggest news via the same [Form](https://app.apptivegrid.de/api/r/612605fabe7d991c4f888815/6183da37558280637b8cf0cd) as for twitter as a bot reposts the twitter account content also on mastodon
 
 ## Blogs
 
