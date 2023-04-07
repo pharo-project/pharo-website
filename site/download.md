@@ -67,7 +67,7 @@ Installation instructions are available within the documentation: [https://pharo
 
 ## GNU/Linux Packages
 
-While there is a [zeroconf](https://get.pharo.org) installation that works for many Linux distributions, due the richness of its ecosystem, not all of them are covered for it.  Pharo uses [Open Build Service](https://build.opensuse.org) to provide packages for many distributions:
+While there is a [zeroconf](https://get.pharo.org) installation that works for many Linux distributions, due the richness of its ecosystem, not all of them are covered for it. Pharo uses [Open Build Service](https://build.opensuse.org) to provide packages for many distributions:
 
  <div class="row text-center">
 
@@ -93,8 +93,8 @@ While there is a [zeroconf](https://get.pharo.org) installation that works for m
 
 </br>
 
-- [Install Pharo stable VM (Full)](https://software.opensuse.org/download.html?project=devel:languages:pharo:latest&package=pharo9-ui). This package will install pharo vm, the pharo-u script and all its dependencies.
-- [Install Pharo stable VM](https://software.opensuse.org/download.html?project=devel:languages:pharo:latest&package=pharo9). This package will install the pharo vm.
+- [Install Pharo stable VM (Full)](https://software.opensuse.org//download.html?project=devel:languages:pharo:stable&package=pharo-ui). This package will install pharo vm, the pharo-ui script and all its dependencies.
+- [Install Pharo stable VM](https://software.opensuse.org/download.html?project=devel:languages:pharo:stable&package=pharo). This package will install the pharo vm.
 - Pharo images need to be downloaded separately [here](https://files.pharo.org/get-files/100/pharo64.zip).
   
    </div>
