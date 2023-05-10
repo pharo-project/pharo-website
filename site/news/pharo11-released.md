@@ -1,3 +1,7 @@
+title: Pharo 11 Released!
+layout: blogpost
+publishDate: "2023-05-10"
+
 Dear Pharo users and dynamic language lovers: 
 
 We have released [Pharo](https://pharo.org/) version 11!
