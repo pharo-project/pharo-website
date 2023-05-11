@@ -76,8 +76,8 @@ Thank you all for your contributions.
 
 The Pharo Team
 
-Discover Pharo: https://pharo.org/features
+Discover Pharo: [[http://github.com/pharo-spec/NewTools](https://pharo.org/features)](https://pharo.org/features)
 
-Try Pharo: http://pharo.org/download
+Try Pharo: [http://pharo.org/download](http://pharo.org/download)
 
-Learn Pharo: http://pharo.org/documentation
+Learn Pharo: [http://pharo.org/documentation](http://pharo.org/documentation)
