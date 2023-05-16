@@ -24,7 +24,7 @@ If you have any question regarding Pharo, do not hesitate to post in the Pharo m
   - There is an [archive](http://us11.campaign-archive1.com/home/?u=6f667565c2569234585a7be77&id=048680a940)
 - Mailinglist at [https://lists.pharo.org](https://lists.pharo.org), among others:
   - The [Pharo-users](https://lists.pharo.org/list/pharo-users.lists.pharo.org) mailing list is for users of Pharo. It is a friendly place where any question about Pharo is welcome. [Archive](https://lists.pharo.org/empathy/list/pharo-users.lists.pharo.org)
-  - The [Pharo-dev](https://lists.pharo.org/list/pharo-users.lists.pharo.org) mailing-list is the main tool of communication concerning the development of Pharo. [Archive](https://lists.pharo.org/empathy/list/pharo-dev.lists.pharo.org)
+  - The [Pharo-dev](https://lists.pharo.org/list/pharo-dev.lists.pharo.org) mailing-list is the main tool of communication concerning the development of Pharo. [Archive](https://lists.pharo.org/empathy/list/pharo-dev.lists.pharo.org)
 
 
 
