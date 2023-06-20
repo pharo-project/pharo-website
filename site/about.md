@@ -7,7 +7,7 @@ publishDate: 2021-07-12
 
 <div class="col-md-9 col-xs-12">
 
-Pharo is a minimal, elegant, pure, reflective object language \(and fully open-source\). 
+Pharo is a minimal, elegant, pure, reflective object language (and fully open-source). 
 - Yes in Pharo they are only objects! Nothing else. 
 - Yes the complete syntax of Pharo fits on a postcard and 
 - Yes we code in the debugger and Pharo has super cool tools that empower you and make you super efficient. 
@@ -39,8 +39,10 @@ The goal of Pharo is to sustain and grow business.
 
 ## Pharo is open-source
 
+Pharo is a fully open-source project released under the [MIT license](/web/license).
+People around the world contribute to Pharo. [ You can find here the pre git contributors ](aboutPreGitContributors)
 
-Pharo is fully open-source project released under the [MIT license](/web/license).
+Do not forget to sign the [license agreement](http://files.pharo.org/media/PharoSoftwareDistributionAgreement.pdf)
 
 
 ## Contact
