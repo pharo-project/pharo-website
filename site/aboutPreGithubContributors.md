@@ -9,8 +9,6 @@ publishDate: 2021-07-12
 
 ## Pharo contributors
 
-People around the world contribute to Pharo. \(Do not forget to sign the [license agreement](http://files.pharo.org/media/PharoSoftwareDistributionAgreement.pdf)\)
-
 Here are the names of some of those who directly contributed to prior to the migration to github, in alphabetical order:
 
 <div class="contributor"><img class="img-circle" alt="Jean-Baptiste Arnaud" src="/web/files/faces/arnaud.png">Jean-Baptiste Arnaud</div>
@@ -274,14 +272,6 @@ Here are the names of some of those who directly contributed to prior to the mig
 <div class="contributor"><img class="img-circle" alt="Hernan Wilkinson." src="/web/files/faces/wilkinson.png">Hernan Wilkinson</div>
 
 
-<div class="clearfix sep"></div>
-
-
-If your name is missing from the above list, send an email to board@pharo.org with a picture of yourself \(PNG file, format 70x70 pixels\).
-
-## Pharo previous contributors
-
-
 <div class="contributor"><img class="img-circle" alt="Vanessa Peña" src="/web/files/faces/pena.png">Vanessa Peña</div>
 
 <div class="contributor"><img class="img-circle" alt="Nicolas Petton" src="/web/files/faces/petton.png">Nicolas Petton</div>
@@ -299,7 +289,6 @@ If your name is missing from the above list, send an email to board@pharo.org wi
 <div class="clearfix sep"></div>
 
 
-
-</div><div class="col-md-3 col-xs-12">
-
 </div>
+
+If your name is missing from the above list, send an email to board@pharo.org with a picture of yourself \(PNG file, format 70x70 pixels\).
