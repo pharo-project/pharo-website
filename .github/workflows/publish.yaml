@@ -16,7 +16,7 @@ jobs:
           source: './site'
           target: 'generated'
       - name: "Upload to server"
-        uses: up9cloud/action-rsync@v1.3
+        uses: up9cloud/action-rsync@v1.4
         env:
           KEY: ${{secrets.SERVER_SSH_KEY}}
           USER: ${{secrets.REMOTE_USER}}
