@@ -11,12 +11,12 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.3
+        uses: estebanlm/foliage-action@v1.4
         with:
           source: './site'
           target: 'generated'
       - name: "Upload to server"
-        uses: up9cloud/action-rsync@v1.4
+        uses: up9cloud/action-rsync@v1.3
         env:
           KEY: ${{secrets.SERVER_SSH_KEY}}
           USER: ${{secrets.REMOTE_USER}}
