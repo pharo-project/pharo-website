@@ -11,7 +11,7 @@ Pharo is a minimal, elegant, pure, reflective object language (and fully open-so
 - Yes the complete syntax of Pharo fits on a postcard and 
 - Yes we code in the debugger and Pharo has super cool tools that empower you and make you super efficient
 
-Check [What is means to develop Pharo](aboutWhatIsPharo) if you want to have a better understanding.
+Check [what it means to develop Pharo](aboutWhatIsPharo) if you want to have a better understanding.
 
 ## Mission
 
