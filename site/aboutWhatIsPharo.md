@@ -1,4 +1,4 @@
-title: What is to make Pharo?
+title: What is to deliver Pharo?
 layout: default
 publishDate: 2021-07-12
 
