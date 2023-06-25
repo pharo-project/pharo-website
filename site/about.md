@@ -21,7 +21,7 @@ By providing a stable and small core system, excellent developing tools, and mai
 
 Pharo fosters a healthy ecosystem of both private and commercial contributors who advance and maintain the core system and its external packages.
 
-As of June 2023, there are 1,155 repositories matching Pharo (see [https://github.com/topics/pharo](https://github.com/topics/pharo). Please check yours!
+As of June 2023, there are 1,155 repositories matching Pharo -- see [https://github.com/topics/pharo](https://github.com/topics/pharo). Please make sure your Pharo project mention Pharo!
 
 ### Pharo features
 
