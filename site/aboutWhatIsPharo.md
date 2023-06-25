@@ -22,10 +22,10 @@ It is in no way exhaustive.
 - Collections
 - Streams
 - Package
-- Literal objects (character, string, numbers, symbols, booleans)
+- Literal objects (character, string, number, symbol, booleans)
 - Kernel  environment, classes, methods,....)
-- Low level concurrent abstractions (process, semaphore, delay, scheduler,..)
-- 
+- Low-level concurrent abstractions (process, semaphore, delay, scheduler,..)
+
 ## Basic utilities
 - Files
 - HTTP/HTTPS * (thanks beta9)
