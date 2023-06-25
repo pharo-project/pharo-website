@@ -2,7 +2,7 @@ title: What is to make Pharo?
 layout: default
 publishDate: 2021-07-12
 
-# What is to make Pharo?
+# What is to deliver Pharo?
 
 You probably know what Pharo is, but the interesting next questions are:
 - what are the components that compose Pharo?
@@ -90,7 +90,7 @@ It is in no way exhaustive.
 - Bootstrap
 - Bug tracking
 - Infrastructure CI
-- Flaky test
+- Facing flaky tests
 - Non-standard architectures (OBS, …)
 - Benchmarks
 - Maintenance/update running condition
