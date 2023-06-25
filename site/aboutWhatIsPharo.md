@@ -4,9 +4,9 @@ publishDate: 2021-07-12
 
 # What is to make Pharo?
 
-You probably know what Pharo is, but the interesting next questions are 
+You probably know what Pharo is, but the interesting next questions are:
 - what are the components that compose Pharo?
-- what does it mean to make Pharo?
+- what does it mean to deliver Pharo?
 - what are the elements that should be maintained to make sure that Pharo is running?  
 
 We present a digestible list of elements to answer these questions. 
@@ -39,7 +39,7 @@ It is in no way exhaustive.
 
 ## Drivers
 - DB drivers
-- SQLLight *
+- SQLLight * (thanks beta9)
 
 ## Graphics
 - Graphics Morphic
@@ -55,13 +55,13 @@ It is in no way exhaustive.
 
 ## IDE
 - Test Runner
-- Syntax hilightler
+- Syntax highlighter
 - Pretty printer
 - Completion
  + Application Packaging
  + "Maven" Package Repo
  + Package Manager
-- Utils (Message Browser, Dependency ,ProcessBrowser, Settings…)
+- Utils (Message Browser, Dependency, ProcessBrowser, Settings…)
 - Code browser
 - Refactoring engine
 - Inspector
@@ -70,7 +70,7 @@ It is in no way exhaustive.
 - Debugger infrastructure
 - Change recorder
 - Microdown Online documentation support
-- Github File Format
+- GitHub File Format
 - Git
 - Git UI
 
@@ -91,7 +91,7 @@ It is in no way exhaustive.
 - Bug tracking
 - Infrastructure CI
 - Flaky test
-- Non standard architectures (OBS, …)
+- Non-standard architectures (OBS, …)
 - Benchmarks
 - Maintenance/update running condition
 - Deployment architecture
@@ -99,13 +99,13 @@ It is in no way exhaustive.
 ## Communication and community
 - Documentation
 - Books
-- Consortium communication and organisation
+- Consortium communication and organization
 - Consortium contracting
 - Discord presence
 - Newsletters
-- Annual conference
+- Annual Conference
 - Company contacts
-- Presentations at event
+- Presentations at various events
 - Blog posts
 - Pharo article in dev forums
 - Lectures
@@ -115,7 +115,7 @@ It is in no way exhaustive.
 
 ## Conclusion
 
-So we hope that now you see that delivering Pharo is a large task.
+We hope that now you see that delivering Pharo is a large task.
 
 
 
