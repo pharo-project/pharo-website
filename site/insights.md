@@ -1,4 +1,6 @@
-This page selected some interesting presentations over the course of the year
+title: Insights layout: default publishDate: "2023-09-15"
+
+This page selected some interesting presentations over the course of the year. Feel free to contribute.
 
 ## Graphics 
 Bloc is the new graphical framework. This is based on it that all the new Pharo widgets are currently designed. 
