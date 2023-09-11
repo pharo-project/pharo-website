@@ -1,4 +1,6 @@
-title: Insights layout: default publishDate: "2023-09-15"
+title: Insights
+layout: default
+publishDate: "2023-09-15"
 
 This page selected some interesting presentations over the course of the year. Feel free to contribute.
 
