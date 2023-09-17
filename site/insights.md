@@ -15,7 +15,7 @@ Bloc is the new graphical framework. This is based on it that all the new Pharo 
 ## Roassal 
 
 - Roassal new developments @ ESUG 2022 [ESUG 2022 Video](https://www.youtube.com/watch?v=awPyBLWTTvk) / [ESUG 2022 Presentation PDF](https://mega.nz/file/0ZdQRZxC#wWLmWc5EiTt7XXmTV0Nw1gvfQjO56Srjv8YTW8AUtQ4)
-- Roassal update @ ESUG 2023 
+- Roassal update @ ESUG 2023 [ESUG 2023 Presentations PDF](https://rmod-files.lille.inria.fr/Pharo/PharoPresentations/2023-ESUG/2023-ESUG-Roassal3Updates.pdf)
 - Football league analysis developing dedicated tools. This is an example of tool co-design that we are able to do with any data [https://www.youtube.com/watch?v=LOn9jVGa83c](https://www.youtube.com/watch?v=LOn9jVGa83c)
 
 ## Roassal Arts
