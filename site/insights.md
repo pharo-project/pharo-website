@@ -17,7 +17,7 @@ Games
 - Roassal Update - ESUG 2022 [Video](https://www.youtube.com/watch?v=awPyBLWTTvk)
 - [Presentation](https://mega.nz/file/0ZdQRZxC#wWLmWc5EiTt7XXmTV0Nw1gvfQjO56Srjv8YTW8AUtQ4) - ESUG 2023
 - (soon available) Roassal - ESUG 2023
-- Football [https://www.youtube.com/watch?v=LOn9jVGa83c]()
+- Football league analysis developing dedicated tools [https://www.youtube.com/watch?v=LOn9jVGa83c](https://www.youtube.com/watch?v=LOn9jVGa83c)
 
  
 ## Tools
