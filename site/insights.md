@@ -20,7 +20,7 @@ Bloc is the new graphical framework. This is based on it that all the new Pharo 
 
 ## Roassal Arts
 
-Generated videos with music input and roassal:
+Generated videos with music input and roassal: [http://github.com/ObjectProfile/Roassal](http://github.com/ObjectProfile/Roassal)
 - Cosmos - [Cosmos](https://youtu.be/02erVntwIo8)
 - Hex -  [Hex](https://youtu.be/HpQD5QKmzTc)
 - Miku -  [Miku](https://youtu.be/_aZPZzSZ8XQ)
