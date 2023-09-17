@@ -21,12 +21,12 @@ Bloc is the new graphical framework. This is based on it that all the new Pharo 
 ## Roassal Arts
 
 Generated videos with music input and roassal:
-- Cosmos - [](https://youtu.be/02erVntwIo8)
-- Hex -  [](https://youtu.be/HpQD5QKmzTc)
-- Miku -  [](https://youtu.be/_aZPZzSZ8XQ)
-- Quadtree -  [](https://youtu.be/H8zedVWw5UA)
-- Noises -  [](https://youtu.be/wKMFSNOmtNg)
-- Eclipse -  [](https://youtu.be/6wHL0GtlJc8)
+- Cosmos - [Cosmos](https://youtu.be/02erVntwIo8)
+- Hex -  [Hex](https://youtu.be/HpQD5QKmzTc)
+- Miku -  [Miku](https://youtu.be/_aZPZzSZ8XQ)
+- Quadtree -  [QuadTree](https://youtu.be/H8zedVWw5UA)
+- Noises -  [Noises](https://youtu.be/wKMFSNOmtNg)
+- Eclipse -  [Eclipse](https://youtu.be/6wHL0GtlJc8)
  
 ## Tools
 - (soon available) A new architecture for Refactorings - ESUG 2023
