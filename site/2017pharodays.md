@@ -1,1 +1,0 @@
-title: 2017pharodayslayout: defaultpublishDate: "2017-04-11"The page is there: [http://pharo.org/2017PharoDays](http://pharo.org/2017PharoDays)
