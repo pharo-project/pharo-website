@@ -5,6 +5,7 @@ publishDate: 2021-11-04
 # Community & help
 
 
+
 ## Discord team
 
 We hang out on Discord \(Invitation at [https://discord.gg/QewZMZa](https://discord.gg/QewZMZa)\), where we discuss everything for Pharo users and developers.
@@ -47,6 +48,9 @@ There are two blogs that collect the massive amount of activities around Pharo.
 In addition, there is a more technical blog about the pharo development:
 - [https://thepharo.dev](https://thepharo.dev)
 
+## Students/Newcomers: SummerSchool and Google Summer of Code
+
+[https://newcomers.pharo.org] has resources for Students and new users.
 
 
 ## Teachers and Research Groups
