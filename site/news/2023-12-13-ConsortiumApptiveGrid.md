@@ -16,6 +16,6 @@ The goal of the Pharo Consortium is to allow companies and institutions to suppo
 
 About
 
-       - [ApptiveGrid](https://www.apptivegrid.de)
-       - [Pharo Consortium](http://consortium.pharo.org)
-	   - Individuals can support Pharo via the [Pharo Association](https://association.pharo.org)
+- [ApptiveGrid](https://www.apptivegrid.de)
+- [Pharo Consortium](http://consortium.pharo.org)
+- Individuals can support Pharo via the [Pharo Association](https://association.pharo.org)
