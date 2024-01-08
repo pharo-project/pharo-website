@@ -160,11 +160,10 @@ Some good talks:
 - [Perfection & Feedback Loops](http://www.slideshare.net/MarcusDenker/perfection-feedback-loops-or-why-worse-is-better-65540840) \[[Watch the video](https://www.youtube.com/watch?v=LRFLdWG24Mk)\] \(by Marcus\)
 
 
-### Read [blogs](/web/blogs)
+### Read Blogs
 
 - [PharoWeekly](http://pharoweekly.wordpress.com)
 - [The Hitchhiker's Guide to ...](http://astares.blogspot.fr)
-- [more...](/web/blogs)
 
 
 ### Pharo Science
