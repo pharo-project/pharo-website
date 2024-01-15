@@ -5,7 +5,7 @@ publishDate: "2022-03-10"
 # Companies using Pharo
 
 
-This is a small list of companies that we know are using Pharo. The list is just a glimpse! there are a lot more companies that didn't sent a link yet. If you are using Pharo and not on this list please fill [this form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6229e855322a68561499cfe5).
+This is a small list of companies that we know were or are using Pharo. The list is just a glimpse! there are a lot more companies that didn't sent a link yet. If you are using Pharo and not on this list please fill [this form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6229e855322a68561499cfe5).
 
 - [https://nootrix.com](https://nootrix.com)
 - [https://www.apptivegrid.de](https://www.apptivegrid.de)
@@ -13,6 +13,7 @@ This is a small list of companies that we know are using Pharo. The list is just
 - [http://zweidenker.de/pharo](http://zweidenker.de/pharo)
 - [http://netstyle.ch](http://netstyle.ch)
 - [http://sharedlogic.ca](http://sharedlogic.ca)
+- [https://www.lifeware.ch](https://www.lifeware.ch)
 - [http://finworks.biz](http://finworks.biz)
 - [http://www.pinesoft.co.uk](http://www.pinesoft.co.uk)
 - [http://yesplan.be](http://yesplan.be)
@@ -27,3 +28,4 @@ This is a small list of companies that we know are using Pharo. The list is just
 - [http://www.minisoftindia.com/](http://www.minisoftindia.com/)
 - [http://norizzk.com/](http://norizzk.com/)
 - [http://trentosur.com/](http://trentosur.com/)
+- [http://https://www.thalesgroup.com/](https://www.thalesgroup.com/)

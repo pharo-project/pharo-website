@@ -114,19 +114,10 @@ Zeroconf scripts automatically download everything you need to get started. It w
 
 ```language=Bash
 # 64bit version
-curl -L https://get.pharo.org/64/ | bash
-# or if curl is not available:
-wget -O- https://get.pharo.org/64 | bash
-```
-
-
-```language=Bash
-# 32bit version
 curl -L https://get.pharo.org | bash
 # or if curl is not available:
 wget -O- https://get.pharo.org | bash
 ```
-
 
 Have a look at the [Zeroconf Website](https://get.pharo.org/) for more information.
 
