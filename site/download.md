@@ -95,7 +95,7 @@ While there is a [zeroconf](https://get.pharo.org) installation that works for m
 
 - [Install Pharo stable VM (Full)](https://software.opensuse.org//download.html?project=devel:languages:pharo:stable&package=pharo-ui). This package will install pharo vm, the pharo-ui script and all its dependencies.
 - [Install Pharo stable VM](https://software.opensuse.org/download.html?project=devel:languages:pharo:stable&package=pharo). This package will install the pharo vm.
-- Pharo images need to be downloaded separately [here](https://files.pharo.org/get-files/100/pharo64.zip).
+- Pharo images need to be downloaded separately [here](https://files.pharo.org/get-files/110/pharo64.zip).
   
    </div>
 
