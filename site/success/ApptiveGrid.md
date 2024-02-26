@@ -27,9 +27,9 @@ Get you free account today to try it yourself!  [https://www.apptivegrid.de](htt
 
 ## About the tech stack
 
-- The business backend of ApptiveGrid is 100% Pharo
-- It uses [https://github.com/svenvc/zinc] Zinc Components for the HTTP frontend
-- and [https://github.com/ApptiveGrid/Soil] Soil as the persistence solution.
+- The business backend of ApptiveGrid is 100% [https://pharo.org](Pharo)
+- It uses [https://github.com/svenvc/zinc](Zinc Components) for the HTTP frontend
+- and [https://github.com/ApptiveGrid/Soil](Soil) as the persistence solution.
 - Each user has its own database (an empty soil database is 24kb on disk).
 - one Pharo image holds multiple soil databases open and provides memory caching for the objects
 - routing of requests is done with haproxy connection persistence
