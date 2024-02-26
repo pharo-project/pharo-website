@@ -17,7 +17,7 @@ On top of the data model a form creator turns your model into a form that you ca
 On the other hand ApptiveGrid is a workflow system where you can define your work flow in the web frontend and connect to events. These events are either internal (resulting from a change in your data model) or external where you can use web hooks to kick of work flows.
 
 
-![](file:///web/files/success/2024-02-ApptiveGrid1.png width=800px)
+![](file:///web/files/success/2024-02-ApptiveGrid2.png width=800px)
 
 
 With the combination of both parts ApptiveGrid is able to solve many of modern digital workflows. It enables to make it for low cost and in almost no time which are two pretty good reasons to use it.
