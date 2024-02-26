@@ -6,8 +6,7 @@ ApptiveGrid is a SaaS tool to digitize and automatize business processes.
 
 On the one hand ApptiveGrid is visual database that enables you to model your database via web frontend. At the same time this model is available via REST API. 
 
-![](file:///web/files/success/2024-02-ApptiveGrid1.png)
-
+![](file:///web/files/success/2024-02-ApptiveGrid1.png width=800px)
 
 On top of the data model a form creator turns your model into a form that you can send e.g. via email to inquire data from other people.
 
