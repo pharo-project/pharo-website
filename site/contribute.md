@@ -20,7 +20,7 @@ publishDate: "2021-02-01"
 - [Participate in Pharo events \(Sprints, etc.\)](/contribute-events)
 
 
-## Donate Money
+## Donate
 
 The Pharo infrastructure \(e.g. Servers\) needs money to operate. In addition, with funds collected by the Pharo Association, we are supporting important development efforts that push Pharo forward. You can give using [Paypal](https://pharo.wildapricot.org/Donate). For recurring contributions, you can join the [Association](http://association.pharo.org) or the [Consortium](http://consortium.pharo.org).
 
