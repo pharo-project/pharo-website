@@ -33,22 +33,22 @@ Some highlights of this amazing version:
 
 ### Tools
 
-- Fluid class syntax is now the default one
+- Scalable fluid class syntax is now the default one
 - Preparing Bloc introduction by migrating more tools to Spec2
-- Enhancements on Spec2
+- Spec2 enhancements to support GTk 4
 - Leaner version of Metacello
-- Strict mode for FFI
+- More robust and strict mode for FFI
 
 ### System 
 
 - New breakpoint system
-- New architecture for refactorings (migration on its way)
+- New architecture for refactorings and domain specific transformations
 - Code loading speed improvement
-- Fully optimised version of package tags
+- Fast browsing via fully optimised package tags
    
 ### Virtual machine
 
-- Memory permanent space
+- Massive image support with permanent space
 - String/ByteArray comparison speed up
 
 ## Development Effort
