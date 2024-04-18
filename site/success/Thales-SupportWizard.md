@@ -4,7 +4,7 @@ publishDate: "2024-04-19"
 
 Support Wizard is an application developped by Pierre Laborde and Eric Le Pors, Global Design and Innovation Leaders at Thales. It is using the latest technological innovations from Pharo to create native and high-performance desktop human-machine interfaces (Bloc graphics engine, Toplo libraries and OS tools). The application is structured with the open-source component architecture framework Molecule. The simplicity and speed of production offered by Pharo and the power of its language allows Thales to focus our efforts on ergonomics and graphic design of the application to offer the best possible user experience.
 
-An interesting fact about the development of this application is the development time that has been really effective. It happened in 3 phases:
+An interesting fact about this application is the efficiency of its development. It happened in 3 phases:
 - The conception of the UX design over 4 months by a UX team (33% of the effort)
 - The development over **1 month by 3 developers** (50% of the effort)
 - Adaptation, integration and the finishing touches over 1 month (17% of the effort)
