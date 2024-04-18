@@ -33,8 +33,8 @@ Some highlights of this amazing version:
 
 ### Tools
 
-- Fluid class syntax is not default (old definition method is deprecated)
-- More tools migrated to Spec2
+- Fluid class syntax is now the default one
+- Preparing Bloc introduction by migrating more tools to Spec2
 - Enhancements on Spec2
 - Leaner version of Metacello
 - Strict mode for FFI
@@ -43,13 +43,13 @@ Some highlights of this amazing version:
 
 - New breakpoint system
 - New architecture for refactorings (migration on its way)
-- Code Loading speed improvement
+- Code loading speed improvement
 - Fully optimised version of package tags
    
 ### Virtual machine
 
-- Permanent space available
-- String/ByteArray comparisson speed up
+- Memory permanent space
+- String/ByteArray comparison speed up
 
 ## Development Effort
 
