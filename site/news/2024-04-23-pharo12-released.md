@@ -45,6 +45,8 @@ Some highlights of this amazing version:
 - New architecture for refactorings and domain specific transformations
 - Code loading speed improvement
 - Fast browsing via fully optimised package tags
+- Reduced memory usage of code via optimized method protocols
+- Compiler improvements and simplifications
    
 ### Virtual machine
 
