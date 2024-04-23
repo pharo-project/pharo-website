@@ -34,7 +34,7 @@ Some highlights of this amazing version:
 ### Tools
 
 - Scalable fluid class syntax is now the default one
-- Preparing Bloc introduction by migrating more tools to Spec2
+- Preparing the introduction of the Bloc graphic system by migrating more tools to Spec2 widgets
 - Spec2 UI framework enhancements to support GTK 4
 - Leaner version of the Metacello package manager
 - More robust and strict mode for FFI
