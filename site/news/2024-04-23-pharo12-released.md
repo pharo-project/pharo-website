@@ -10,7 +10,7 @@ We have released [Pharo](https://pharo.org/) version 12!
 
 Pharo is a pure object-oriented programming language and a powerful environment focused on simplicity and immediate feedback.
 
-![Screenshot of Pharo 12](https://files.pharo.org/web-images/news/Pharo12.jpg)
+![Screenshot of Pharo 12](/news/Pharo12.png)
 
 - Simple & powerful language: No constructors, no types declaration, no interfaces, no primitive types. Yet a powerful and elegant language with a full syntax fitting in one postcard! Pharo is objects and messages all the way down.
 
