@@ -35,7 +35,7 @@ Some highlights of this amazing version:
 
 > The debug point system is a breakpoint model that supersedes the previous implementation of breakpoints and watchpoints. They are configurable, composable, and extensible. The traditional breakpoints remain available, including conditional breakpoints, one-time breakpoints, and object-centric breakpoints. Additionally, there are new types of breakpoints, such as chained-breakpoints, which condition the activation of certain breakpoints on the triggering of others (e.g., breakpoint B only activates if breakpoint A is hit first). Debug points also feature a dedicated browser and integration options.
 
-![Screenshot of Pharo 12](/news/Pharo12DebugPoints.png)
+![Debug Point Browser](/news/Pharo12DebugPoints.png)
 
 ### Tools
 
