@@ -7,11 +7,11 @@ publishDate: 2021-07-12
 <div class="col-md-9 col-xs-12">
 
 Pharo is a minimal, elegant, pure, reflective object language (and fully open-source). 
-- Yes in Pharo they are only objects! Nothing else
-- Yes the complete syntax of Pharo fits on a postcard and 
-- Yes we code in the debugger and Pharo has super cool tools that empower you and make you super efficient
+- Yes, in Pharo, everything is an object, without exception.
+- Yes, the entirety of Pharo's syntax fits in a postcard.
+- Yes, we often write code directly in the debugger, and Pharo is equipped with exceptional tools designed to enhance your productivity and efficiency significantly.
 
-Check [what it means to develop Pharo](aboutWhatIsPharo) if you want to have a better understanding.
+For a deeper insight, consider exploring the section on [what developing with Pharo entails](aboutWhatIsPharo).
 
 ## Mission
 
@@ -20,8 +20,6 @@ Pharo's goal is to deliver a clean, innovative, free, and open-source immersive 
 By providing a stable and small core system, excellent developing tools, and maintained releases, Pharo is an attractive platform to build and deploy mission-critical applications. 
 
 Pharo fosters a healthy ecosystem of both private and commercial contributors who advance and maintain the core system and its external packages.
-
-As of June 2023, there are 1,155 repositories matching Pharo -- see [https://github.com/topics/pharo](https://github.com/topics/pharo). Please make sure your Pharo project mention Pharo!
 
 ### Pharo features
 
