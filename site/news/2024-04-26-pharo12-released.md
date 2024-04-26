@@ -68,7 +68,7 @@ We have also a lot of work in the separate projects that are included in each Ph
 - [http://github.com/pharo-spec/NewTools-DocumentBrowser](http://github.com/pharo-spec/NewTools-DocumentBrowser)
 - [http://github.com/pharo-spec/Spec](http://github.com/pharo-spec/Spec)
 - [http://github.com/pharo-vcs/Iceberg](http://github.com/pharo-vcs/Iceberg)
-- [http://github.com/ObjectProfile/Roassal3](http://github.com/ObjectProfile/Roassal3)
+- [https://github.com/pharo-graphics/Roassal](https://github.com/pharo-graphics/Roassal)
 - [http://github.com/pillar-markup/Microdown](http://github.com/pillar-markup/Microdown)
 - [http://github.com/pillar-markup/BeautifulComments](http://github.com/pillar-markup/BeautifulComments)
 - [http://github.com/pharo-project/pharo-vm](http://github.com/pharo-project/pharo-vm)
