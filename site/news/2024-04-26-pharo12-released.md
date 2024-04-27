@@ -50,7 +50,7 @@ The debug point system is a breakpoint model that supersedes the previous implem
 - New architecture for refactorings and domain specific transformations
 - Code loading speed improvement
 - Fast browsing via fully optimized package tags
-- Optmized memory usage via optimized method protocols
+- Optimized memory usage for method protocols
 - Compiler simplifications and improvements
    
 ### Virtual machine
