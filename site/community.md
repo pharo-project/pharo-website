@@ -32,7 +32,7 @@ If you have any questions regarding Pharo, do not hesitate to post in the Pharo 
 ## Twitter
 
 - Follow the official tweet of Pharo: [@pharoproject](https://twitter.com/pharoproject)  
-- You can suggest tweets with this [Form](https://app.apptivegrid.de/api/r/612605fabe7d991c4f888815/6183da37558280637b8cf0cd)
+- You can suggest tweets with this [Form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6645c6aad13ed136b5d4d3f8/BDOmRVrRfuAzfyGa0wnkNTzic0KuzBgd7APFrrA3V8og1oOhTEp)
 
 ## Mastodon
 
