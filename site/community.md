@@ -29,15 +29,15 @@ If you have any questions regarding Pharo, do not hesitate to post in the Pharo 
 
 
 
-## Twitter
+## Social Media
 
-- Follow the official tweet of Pharo: [@pharoproject](https://twitter.com/pharoproject)  
-- You can suggest tweets with this [Form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6645c6aad13ed136b5d4d3f8/BDOmRVrRfuAzfyGa0wnkNTzic0KuzBgd7APFrrA3V8og1oOhTEp)
-
-## Mastodon
-
+- Follow the official tweet of Pharo: [@pharoproject](https://twitter.com/pharoproject)
 - Follow the official mastodon: [@pharoproject@mastodon.social](https://mastodon.social/@pharoproject)
-- You can suggest news via the same [Form](https://app.apptivegrid.de/api/r/612605fabe7d991c4f888815/6183da37558280637b8cf0cd) as for twitter as a bot reposts the Twitter account content also on mastodon
+- Pharo on Facebook [https://www.facebook.com/PharoProject](https://www.facebook.com/PharoProject)
+- Pharo on [LinkedIn](https://www.linkedin.com/company/102626671/)
+
+You can suggest news with this [Form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6645c6aad13ed136b5d4d3f8/BDOmRVrRfuAzfyGa0wnkNTzic0KuzBgd7APFrrA3V8og1oOhTEp)
+
 
 ## Blogs
 
