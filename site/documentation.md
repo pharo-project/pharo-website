@@ -122,13 +122,7 @@ A non-exhaustive list of available projects for use with Pharo.
 
 [All the syntax and model](http://files.pharo.org/media/pharoCheatSheet.pdf) explained on two pages!
 
-### Monthly Pharo TechTalk
 
-There is a online TechTalk every last Tuesday of the month. 
-
-There is a [youtube list](https://www.youtube.com/playlist?list=PL4actYd6bfnx8l8cqYWhdNB6gJgRvk5sH) you can watch, or have a look at the [archive](TechTalk).
-
-See a list of upcoming talks [here](https://association.pharo.org/events).
 
 ### Watch [screencasts](https://www.youtube.com/channel/UCp3mNigANqkesFzdm058bvw)
 
@@ -173,3 +167,7 @@ Pharo is used in both industry and research. We are starting to collect all publ
 - [How to add](/web/PharoPublications)
 
 </div></div>
+
+### Archived Monthly Pharo TechTalk
+
+There is a [youtube list](https://www.youtube.com/playlist?list=PL4actYd6bfnx8l8cqYWhdNB6gJgRvk5sH) you can watch, or have a look at the [archive](TechTalk).
