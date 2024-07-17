@@ -114,7 +114,6 @@ A non-exhaustive list of available projects for use with Pharo.
 
 ## Online info
 
-
 </div><div class="col-md-8">
 
 
@@ -132,8 +131,21 @@ For Ruby people:
 - 7 minutes of Pharo Smalltalk for Rubyists [https://www.youtube.com/watch?v=HOuZyOKa91o](https://www.youtube.com/watch?v=HOuZyOKa91o)
 - MountainFest 2014 talk [https://www.youtube.com/watch?v=eGaKZBr0ga4](https://www.youtube.com/watch?v=eGaKZBr0ga4) 
 
+Some introductory casts from the Pharo mooc:
 
-Some introductory casts:
+- [Selecting expression](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveA-EN-final.mp4)
+- [ProfStef](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveB-EN-final.mp4)
+- [Syntax hilighting](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveC-EN-final.mp4)
+- [Packages, Classes and Methods](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo1-EN-final.mp4)
+- [Adding Tests](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo2-EN-final.mp4)
+- [Looking back at Method Creation](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo3-EN-final.mp4)
+- [Save your code with Iceberg](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo4-EN-final.mp4)
+-	[Object initialization](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo5-EN-final.mp4)
+-	[Better printing method](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo6-EN-final.mp4)
+-	[Browsing History](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo7-EN-final.mp4)
+
+
+Some other introductory casts:
 - [Create a class](https://www.youtube.com/watch?v=0xF4fnGaE2w) \(by Kilon\)
 - [Instance variables](https://www.youtube.com/watch?v=gSmlsarDMEQ) \(by Kilon\)
 - [Workspace variables](https://www.youtube.com/watch?v=J015tc6q6sY) \(by Kilon\)
@@ -142,11 +154,12 @@ Some introductory casts:
 - [TDD Example](https://www.youtube.com/watch?v=aO4iYSNJxY4) \(by Martin\)
 
 
+
 ### See [presentations](http://www.slideshare.net/pharoproject/)
 
 Slides of presentations related to Pharo.
 
-Some good talks:
+Some old selected talks: more on [http://talks.pharo.org](http://talks.pharo.org)
 - [Pharo Status \(Fosdem 2015\)](http://www.slideshare.net/MarcusDenker/2015-fosdempharo) \(by Marcus\)
 - Video [Pharo: Playing with Live Objects](http://vimeo.com/channels/ndc2014/97315968) \(by Tudor\)
 - [Objects at your finger tips](http://www.slideshare.net/pharoproject/pharo-objects-at-your-fingertips-34086263) \[[Watch the video](http://www.youtube.com/watch?v=xhPlUaXpCU4)\] \(by Marcus\)
@@ -158,7 +171,7 @@ Some good talks:
 
 - [PharoWeekly](http://pharoweekly.wordpress.com)
 - [The Hitchhiker's Guide to ...](http://astares.blogspot.fr)
-
+- [Some blogs from the Pharo team](https://wordpress.com/view/thepharo.dev)
 
 ### Pharo Science
 
