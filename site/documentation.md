@@ -131,7 +131,7 @@ For Ruby people:
 - 7 minutes of Pharo Smalltalk for Rubyists [https://www.youtube.com/watch?v=HOuZyOKa91o](https://www.youtube.com/watch?v=HOuZyOKa91o)
 - MountainFest 2014 talk [https://www.youtube.com/watch?v=eGaKZBr0ga4](https://www.youtube.com/watch?v=eGaKZBr0ga4) 
 
-Some introductory casts from the Pharo mooc:
+Some introductory casts from the Pharo mooc to get started:
 
 - [Selecting expression](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveA-EN-final.mp4)
 - [ProfStef](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveB-EN-final.mp4)
