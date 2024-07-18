@@ -55,7 +55,7 @@ The dedicated [Pharo Books website](http://books.pharo.org/) references the publ
 
 <div class="row"><div class="col-md-4 col-title">
 
-## Pharo Mooc
+## Pharo Moocs
 
 @mooc
 
@@ -116,20 +116,7 @@ A non-exhaustive list of available projects for use with Pharo.
 
 </div><div class="col-md-8">
 
-
-### Use the Syntax Cheat Sheet
-
-[All the syntax and model](http://files.pharo.org/media/pharoCheatSheet.pdf) explained on two pages!
-
-
-
-### Watch [screencasts](https://www.youtube.com/channel/UCp3mNigANqkesFzdm058bvw)
-
-Lean back and watch Pharo screencasts.
-
-For Ruby people:
-- 7 minutes of Pharo Smalltalk for Rubyists [https://www.youtube.com/watch?v=HOuZyOKa91o](https://www.youtube.com/watch?v=HOuZyOKa91o)
-- MountainFest 2014 talk [https://www.youtube.com/watch?v=eGaKZBr0ga4](https://www.youtube.com/watch?v=eGaKZBr0ga4) 
+### Getting started with Pharo 
 
 Some introductory casts from the Pharo mooc to get started:
 
@@ -145,7 +132,19 @@ Some introductory casts from the Pharo mooc to get started:
 -	[Browsing History](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-Redo7-EN-final.mp4)
 
 
-Some other introductory casts:
+### Use the Syntax Cheat Sheet
+
+[All the syntax and model](http://files.pharo.org/media/pharoCheatSheet.pdf) explained on two pages!
+
+
+### What others are saying
+
+For Ruby people:
+- 7 minutes of Pharo Smalltalk for Rubyists [https://www.youtube.com/watch?v=HOuZyOKa91o](https://www.youtube.com/watch?v=HOuZyOKa91o)
+- MountainFest 2014 talk [https://www.youtube.com/watch?v=eGaKZBr0ga4](https://www.youtube.com/watch?v=eGaKZBr0ga4) 
+
+
+### Some old introductory casts:
 - [Create a class](https://www.youtube.com/watch?v=0xF4fnGaE2w) \(by Kilon\)
 - [Instance variables](https://www.youtube.com/watch?v=gSmlsarDMEQ) \(by Kilon\)
 - [Workspace variables](https://www.youtube.com/watch?v=J015tc6q6sY) \(by Kilon\)
@@ -153,20 +152,23 @@ Some other introductory casts:
 - [TDD Kata FizzBuzz](https://www.youtube.com/watch?v=BV86r2k6QI8) \(by zeroflag\)
 - [TDD Example](https://www.youtube.com/watch?v=aO4iYSNJxY4) \(by Martin\)
 
+### Slides
 
+A list of up to date talks
+- [Slides of presentations](http://www.slideshare.net/pharoproject/)
+- More on [http://talks.pharo.org](http://talks.pharo.org)
 
-### See [presentations](http://www.slideshare.net/pharoproject/)
-
-Slides of presentations related to Pharo.
-
-Some old selected talks: more on [http://talks.pharo.org](http://talks.pharo.org)
+Some old selected talks: 
 - [Pharo Status \(Fosdem 2015\)](http://www.slideshare.net/MarcusDenker/2015-fosdempharo) \(by Marcus\)
 - Video [Pharo: Playing with Live Objects](http://vimeo.com/channels/ndc2014/97315968) \(by Tudor\)
 - [Objects at your finger tips](http://www.slideshare.net/pharoproject/pharo-objects-at-your-fingertips-34086263) \[[Watch the video](http://www.youtube.com/watch?v=xhPlUaXpCU4)\] \(by Marcus\)
 - [Pharo 4 plans and dreams](http://www.slideshare.net/pharoproject/pharo4-plans-and-dreams) \[[Watch the video](https://www.youtube.com/watch?v=mUV9E03u52g)\] \(by Marcus\)
 - [Perfection & Feedback Loops](http://www.slideshare.net/MarcusDenker/perfection-feedback-loops-or-why-worse-is-better-65540840) \[[Watch the video](https://www.youtube.com/watch?v=LRFLdWG24Mk)\] \(by Marcus\)
 
+### Random Pharo screencasts worth watching
 
+- [Some Pharo screencasts](https://www.youtube.com/channel/UCp3mNigANqkesFzdm058bvw)
+  
 ### Read Blogs
 
 - [PharoWeekly](http://pharoweekly.wordpress.com)
