@@ -29,9 +29,9 @@ Wiki related to the Pharo programming language and environment
 
 A collection of awesome Pharo libraries, tools, frameworks and software. [Link](https://github.com/pharo-open-documentation/awesome-pharo)
 
-### On Twitter
-
-Follow on twitter to get notified of new pages: [https://twitter.com/PharoOpen](https://twitter.com/PharoOpen)
+%### On Twitter
+%
+%Follow on twitter to get notified of new pages: [https://twitter.com/PharoOpen]%(https://twitter.com/PharoOpen)
 
 </div></div>
 
