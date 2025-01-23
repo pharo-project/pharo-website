@@ -5,7 +5,7 @@ publishDate: "2022-03-10"
 # Companies using Pharo
 
 
-This is a small list of companies that we know were or are using Pharo. The list is just a glimpse! there are a lot more companies that didn't sent a link yet. If you are using Pharo and not on this list please fill [this form](https://app.apptivegrid.de/api/r/6229e13b3572c1b617a7ebbc/6229e855322a68561499cfe5).
+This is a small list of companies that we know were or are using Pharo. The list is just a glimpse! there are a lot more companies that didn't sent a link yet. If you are using Pharo and not on this list please fill [this form](https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/679244150ec90a76aae8b8b7/BDOmRVrRfuAzfyGa0wxV1c3VLQo6d0vcjF6p7D69ckwhHSg6ZxX).
 
 - [https://nootrix.com](https://nootrix.com)
 - [https://www.apptivegrid.de](https://www.apptivegrid.de)
