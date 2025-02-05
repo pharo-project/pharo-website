@@ -32,6 +32,7 @@ If you have any questions regarding Pharo, do not hesitate to post in the Pharo 
 ## Social Media
 
 - Follow the official mastodon: [@pharoproject@mastodon.social](https://mastodon.social/@pharoproject)
+- Bluesky: [pharoproject.bsky.social](https://bsky.app/profile/pharoproject.bsky.social)
 - Pharo on Facebook [https://www.facebook.com/PharoProject](https://www.facebook.com/PharoProject)
 - Pharo on [LinkedIn](https://www.linkedin.com/company/102626671/)
 
