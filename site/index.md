@@ -27,7 +27,7 @@ publishDate: 2021-02-01
     </div>
 </form>
 </div>
-Follow us on Mastodon: <a href="https://mastodon.social/@pharoproject"</a>
+Follow us on Mastodon: <a href="https://mastodon.social/@pharoproject">@pharoproject@mastodon.social</a>
 </div>
 
 <div class="topic">
