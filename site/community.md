@@ -50,7 +50,7 @@ In addition, there is a more technical blog about the pharo development:
 
 ## Students/Newcomers: SummerSchool and Google Summer of Code
 
-[https://newcomers.pharo.org] has resources for Students and new users.
+[https://newcomers.pharo.org](https://newcomers.pharo.org) has resources for Students and new users.
 
 
 ## Teachers and Research Groups
