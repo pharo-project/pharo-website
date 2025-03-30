@@ -1,5 +1,5 @@
 {
-"title" : "Download (40)","
+"title" : "Download (40)",
 "layout" : "default",
 "publishDate" : "2016-05-06"
 }
@@ -30,7 +30,7 @@
 
 
 _Just because Pharo developers are addicted to our live, dynamic IDE does not mean that we do not value automatic scripts and love the command line! Zeroconf scripts automatically download everything you need to get started. It will recognize your platform and load the appropriate VM version._ - Adapted from the [Deep Into Pharo](http://deepintopharo.com/) book.
-s
+
 ```language=Bash
 curl get.pharo.org | bash
 # or if curl is not available:
