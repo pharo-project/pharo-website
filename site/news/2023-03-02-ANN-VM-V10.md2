@@ -1,0 +1,72 @@
+{
+"title": "[ANN] VM Version 10.0.0 Release",
+"layout": "blogpost",
+"publishDate": "2023-03-03"
+}
+
+We have released a new version of the Pharo VM for Pharo 11. This VM is accessible right now from Zero-Conf, updating it in the Pharo Launcher or using the usual downloads (as described in [pharo.org/download](https://pharo.org/download)). OBS packages are still in work and will come later.
+
+This is the new VM that will be stable for Pharo 11 release, it is also compatible with Pharo 10 images but it is not the default for Pharo 10.
+
+It has a lot of changes and improvements, as it is the result of more than a year and a half of improvements, clean-ups, and bug fixes.
+
+
+[Changelog v10.0.0](https://github.com/pharo-project/pharo-vm/releases/tag/v10.0.0):
+
+Slang (Smalltalk to C Translator)
+- Introducing a C AST to ease the generation of C Code
+- Having a Pretty Printer for C AST
+- Translation Tests
+- Fixing Translation Issues
+- Clear separation between Slang and VM code
+- Improving Cast generation
+
+Clean Up:	
+- Remove Old Bytecode Set
+- Remove Old Block Implementation
+- Simplification of the Primitives
+- Removing Unused / Old Code / Dead Code
+- Cleanup / Removal of Old Unused primitives
+- Removing Old FFI Implementation
+- Removing MT Experiment from the code base (Kept in own branch)
+- Fixing Compilation Warnings
+- Improving Type annotations to fix bugs in the translation / compilation
+- Removing Conditional Code on Old Configurations / Features
+- Renaming Concepts to be inline with Common terminology
+- Remove Newspeak, Multiple Bytecode and Old Memory Managers
+- Removing Unused Plugins
+
+Tests
+- GNUification Tests
+- Tests for Math primitives including overflow and conversion testing.
+- Tests for comparison primitives (Equals / Not Equals / Less than / Less or Equals / Greater Than / Greater or Equals)
+- Testing Primitives for objects Pinned in Memory
+- Testing Math Primitives for Immediate Classes (SmallFloats / SmallIntegers)	
+- Improving Simulation Infrastructure
+- Using Sista Bytecode in all Tests
+- Updating Unicorn version
+- Improving Machine Code emulation
+- Testing Image Read / Image Write
+- Using the same memory map in Tests and Execution
+- Testing Ephemerons
+- Become Primitives
+
+Ephemerons
+- Fix for large amounts
+- Make it available
+- Testing Signal Finalizations
+	
+Single-Instruction Multiple-Data (SIMD) initial Support:
+- Initialization of new objects using SIMD (ARM64)
+- Adding Bytecode Extensions to support SIMD instructions
+- Adding Vector Registers
+- Vector Register bytecodes
+
+Misc:
+- Fixing Become Errors.
+- Fixing XRay Primitive
+- Auto Localization of Interpreter loop variables and edge detection simplifying development and minimizing code
+- ImageReader / ImageWriter reification needed for Permanent Space.
+- Improving Memory Map of the VM (Using constant positions)
+- Dependencies Improvements
+
