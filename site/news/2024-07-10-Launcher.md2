@@ -1,0 +1,39 @@
+{
+"title": "[ANN]  Pharo Launcher 3.2 released",
+"layout": "blogpost",
+"publishDate": "2024-07-11"
+}
+
+Pharo Launcher 3.2 has just been released! It is available from [http://pharo.org/download](http://pharo.org/download).
+
+Pharo Launcher now comes with a command-line version that you can use from a terminal!
+You can check the [documentation of commands](https://pharo-project.github.io/pharo-launcher/commands-cmd-line/)  as well as instructions to [make pharo-launcher available](https://pharo-project.github.io/pharo-launcher/installation/) on the command line.
+
+This nice feature is now available thanks to the contributions of Axel Marlard, David Bajger and I as well as the support of Damien Pollet for the Clap library.
+
+## New Features
+
+### Command Line Support
+- All commands available in the UI version of Pharo Launcher are supported
+- New commands:
+  - Create an image from a Pull Request number (from Pharo repository)
+  - Create an image from a build number, a SHA
+  - Create an image and import your code from a repository
+  - Share easily an image (zip file with the Pharo image, the VM to run it and a launch script)
+  - Find easily the Pharo version where a bug was introduced with image bisect algorithm
+  - Launch an image with a script
+  - List running Pharo processes
+- When creating an image, the image is now launched automatically
+
+### Improvements
+- CI Moved to Github Actions
+- Better Mac OS system menu
+- Do not try to guess the version of a Pharo image if information is not available but rather ask the user
+- When deleting more than one image at a time the message is not clear (#594)
+
+### Bug Fixes
+- Pharo 12.0 build list incomplete (#667)
+- Use "Show" when no image is downloaded yet gives error (#570) (thanks to @astares)
+- Development mode does not close pharoLauncher application (#548)
+- Using "Show in folder" gives DNU (#568) (thanks to @astares)
+- Launcher cannot launch Pharo-4.0 image (#585)
