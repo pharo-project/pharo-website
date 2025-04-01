@@ -1,0 +1,7 @@
+Foliage {
+	#baseUri: 'http://pharo.org',
+	#blogs: [ 
+		'news': 'Pharo News', 
+		'success': 'Pharo Success Stories' 
+	]
+}

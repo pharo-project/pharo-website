@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    {{> head}}
+    <body class="index-page">
+        <div id="wrap">
+            <div id="main">
+                {{> index-header}}
+                {{> index-links}}
+                <div class="container">
+                    {{> main}}
+                </div>
+            </div>
+        </div>
+
+        {{> footer}}
+    </body>
+</html>

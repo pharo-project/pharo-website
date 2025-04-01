@@ -1,0 +1,12 @@
+<div class="teaser">
+    <div class="main">
+        <img class="img-responsive" src="/web/files/pharo.png" alt="logo" srcset="/web/files/pharo-2x.png 2x"/>
+        <h1>The immersive programming experience</h1>
+        <p style="font-size: smaller"> 
+Pharo is a pure object-oriented programming language <i>and</i> a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).<br/>
+<!--It gives you total control over your programming experience.<br/> 
+It is open source and available for Mac, Windows and Linux. -->
+        </p>
+    </div>
+    {{> index-teaser-carousel}}
+</div>

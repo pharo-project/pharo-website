@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+    {{> head}}
+    <body class="default">
+        <div id="wrap">
+            <div id="main">
+                {{> header}}
+
+                <div class="container">
+                    {{> main}}
+                </div>
+            </div>
+        </div>
+        {{> footer}}
+    </body>
+</html>

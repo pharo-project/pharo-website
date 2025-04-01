@@ -1,0 +1,57 @@
+<style>
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 880px;
+    margin: 0 auto;
+}
+
+.flex-item {
+    width: 280px;
+}
+
+a.column-header {
+   background-color: #1277b4;
+   color: white;
+}
+
+a.column-header:hover {
+   background-color: #3297d4;
+ }
+
+.column-content {
+   margin: 15px;
+ }  
+</style>
+
+<div class= "container">
+<div class="row">
+<div class="col-md-12">
+    <div class="row">
+        <div class="col-md-4">
+             <a class="btn btn-block btn-lg column-header" href="/features">Discover</a>
+             <div class="column-content"> 
+Learn more about Pharo's key <a href="/features">features</a> and elegant design.
+</div>
+        </div>
+        <div class="col-md-4">
+             <a class="btn btn-block btn-lg column-header" href="/download">Download</a>
+             <div class="column-content">
+Download latest version !<br/>
+Read more about <a href="/news/2024-04-26-pharo12-released.html">here</a>
+ </div>
+        </div>
+        <div class="col-md-4">
+              <a class="btn btn-block btn-lg column-header" href="/documentation">Learn</a>
+              <div class="column-content"> 
+Access the Pharo Mooc!<br/>
+3000 people registered and follow the Pharo Mooc. You can find it <a href="http://mooc.pharo.org">here</a>.<br/>
+Watch the <a href="https://www.dailymotion.com/video/x3qedvo_fun-mooc-programmation-objet-immersive-en-pharo_school">teaser</a>! 
+</div>
+
+</div>
+</div>
+</div>
+</div>
