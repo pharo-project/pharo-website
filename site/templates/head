@@ -6,10 +6,10 @@
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/united/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/web/files/style.css">
+    <link rel="stylesheet" href="/files/style.css">
     <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="/web/files/ekko-lightbox.min.js"></script>
-    <script src="/web/files/pharo.js"></script>
-    <link rel="stylesheet" href="/web/files/ekko-lightbox.min.css">
+    <script src="/files/ekko-lightbox.min.js"></script>
+    <script src="/files/pharo.js"></script>
+    <link rel="stylesheet" href="/files/ekko-lightbox.min.css">
 </head>

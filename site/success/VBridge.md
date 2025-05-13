@@ -1,0 +1,1 @@
+{"title" : "VBridge","layout": "blogpost","publishDate": "2014-10-07"}![](file:///web/files/success/2014-09-12-Vbridge.png width=800px)VBridge was a webapp to select job agencies. 
