@@ -1,13 +1,15 @@
 {
 "title" : "TechTalk",
 "layout" : "default",
-"publishDate": "2020-02-21"
+"publishDate" : "2020-02-21"
 }
 
 We organize Pharo Tech Talks every last Thursday of the month. They happen on Discord, often with a Demo on youtube.
 
 
+
 Past TechTalks:
+- Thursday 20: "The Colony", [Link](https://association.pharo.org/event-3697011) \(No recording\)
 - January 23: "Contributing to Iceberg \(Git support\)", [Link](https://association.pharo.org/event-3697009), [Recording](https://www.youtube.com/watch?v=-jenQJp5m2U)
 - 19 Dec 2019: Pharo TechTalk: Working with Spec2 and GTK,  [Link](https://association.pharo.org/event-3419547),  [Recording](https://www.youtube.com/watch?v=IVY7TH4MCXI)
 - 24 Oct 2019: Pharo TechTalk: Headless VM,  [Link](https://association.pharo.org/event-3419545), [Recording](https://www.youtube.com/watch?v=6iAzRYybY_M)
