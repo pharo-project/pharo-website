@@ -32,6 +32,7 @@ If you have any questions regarding Pharo, do not hesitate to post in the Pharo 
 ## Social Media
 
 - Follow the official mastodon: [@pharoproject@mastodon.social](https://mastodon.social/@pharoproject)
+- Bluesky: [pharoproject.bsky.social](https://bsky.app/profile/pharoproject.bsky.social)
 - Pharo on Facebook [https://www.facebook.com/PharoProject](https://www.facebook.com/PharoProject)
 - Pharo on [LinkedIn](https://www.linkedin.com/company/102626671/)
 
@@ -49,7 +50,7 @@ In addition, there is a more technical blog about the pharo development:
 
 ## Students/Newcomers: SummerSchool and Google Summer of Code
 
-[https://newcomers.pharo.org] has resources for Students and new users.
+[https://newcomers.pharo.org](https://newcomers.pharo.org) has resources for Students and new users.
 
 
 ## Teachers and Research Groups
