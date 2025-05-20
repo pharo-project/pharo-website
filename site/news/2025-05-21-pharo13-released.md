@@ -32,28 +32,28 @@ Some highlights of this amazing version:
 ## Highlights
 
 ### Tools
-	- Spec Tools remembering their size
-	- Microdown enhancements
-	- HDPI support 
-	- Zoomable UI 
-	- New list, tables and trees allowing any presenter as their content
-	- Better source code text navigation and edition
-	- New Process Browser
-	- New Transcript (introducing also the Object Transcript)
-	- Organic window manager 
+- Spec Tools remembering their size
+- Microdown enhancements
+- HDPI support 
+- Zoomable UI 
+- New list, tables and trees allowing any presenter as their content
+- Better source code text navigation and edition
+- New Process Browser
+- New Transcript (introducing also the Object Transcript)
+- Organic window manager 
 
 ### System 
-	- Better refactorings UX Cleaner leaner code logic
-	- More robust and faster halt implementation
-	- Debug points to enhance debugging experience
+- Better refactorings UX Cleaner leaner code logic
+- More robust and faster halt implementation
+- Debug points to enhance debugging experience
    
 ### Virtual machine
-   - Async IO using epoll on unixes
-   - Faster byte array / string comparisons
-   - Improve windows support for non ASCII filenames
-   - FreeBSD support
-   - Update SDL2 version in OSX (Intel & Apple)
-   - Minimal MacOS version required raised to MacOS 11 and above
+- Async IO using epoll on unixes
+- Faster byte array / string comparisons
+- Improve windows support for non ASCII filenames
+- FreeBSD support
+- Update SDL2 version in OSX (Intel & Apple)
+- Minimal MacOS version required raised to MacOS 11 and above
 
 ## Development Effort
 
