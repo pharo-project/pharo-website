@@ -147,10 +147,7 @@ You can download the Pharo VM and image as separated packages.
 
 </div>
 
-	
 <div class="row">
-
-  roImage-x86_64.zip">x86_64 (default)</a> | <a href="https://files.pharo.org/image/130/pharoImage-x86_64.zip">64bits (x86_64)</a>
 ##
 (https://files.pharo.org/).
   </div>
