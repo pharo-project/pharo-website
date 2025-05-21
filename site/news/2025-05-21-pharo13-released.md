@@ -36,7 +36,7 @@ Some highlights of this amazing version:
 - Microdown enhancements
 - HDPI support 
 - Zoomable UI 
-- New list, tables and trees allowing any presenter as their content
+- New list, tables and trees, allowing any presenter as their content
 - Better source code text navigation and edition
 - New Process Browser
 - New Transcript (introducing also the Object Transcript)
@@ -45,12 +45,13 @@ Some highlights of this amazing version:
 ### System 
 - Better refactorings UX Cleaner leaner code logic
 - More robust and faster halt implementation
-- Debug points to enhance debugging experience
+- Debug points to enhance the debugging experience
+- Clean-ups
    
 ### Virtual machine
 - Async IO using epoll on unixes
 - Faster byte array / string comparisons
-- Improve windows support for non ASCII filenames
+- Improve Windows support for non ASCII filenames
 - FreeBSD support
 - Update SDL2 version in OSX (Intel & Apple)
 - Minimal MacOS version required raised to MacOS 11 and above
@@ -59,7 +60,7 @@ Some highlights of this amazing version:
 
 This new version is the result of 698 Pull Requests integrated just in the Pharo repository. 
 We have closed 865 issues and received contributions from more than 70 different contributors.
-We have also a lot of work in the separate projects that are included in each Pharo release:
+We also have a lot of work in the separate projects that are included in each Pharo release:
 
 - [http://github.com/pharo-spec/NewTools](http://github.com/pharo-spec/NewTools)
 - [http://github.com/pharo-spec/Spec](http://github.com/pharo-spec/Spec)
@@ -70,7 +71,7 @@ We have also a lot of work in the separate projects that are included in each Ph
 - [http://github.com/pharo-project/pharo-vm](http://github.com/pharo-project/pharo-vm)
 
 ## Contributors
-We always say Pharo is yours. It is yours because we made it for you, but most importantly because it is made by the invaluable contributions of our great community (yourself).  
+We always say Pharo is yours. It is yours because we made it for you, but most importantly, because it is made by the invaluable contributions of our great community (yourself).  
 A large community of people from all around the world contributed to Pharo 13.0 by making pull requests, reporting bugs, participating in discussion threads, providing feedback, and a lot of helpful tasks in all our community channels.  
 Thank you all for your contributions.
 
