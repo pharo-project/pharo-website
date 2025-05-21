@@ -136,28 +136,29 @@ Have a look at the [Zeroconf Website](https://get.pharo.org/) for more informati
 You can download the Pharo VM and image as separated packages.
 
 <ul>
-<li><i class="fa fa-windows"></I> Pharo stable VM for Windows: <a href="https://files.pharo.org/get-files/120/pharo-vm-Windows-x86_64-stable.zip">64bit (default)</a> | <a href="https://files.pharo.org/get-files/120/pharo-vm-Windows-X86-stable.zip">32bit</a></li>
-<li><i class="fa fa-apple"></I> Pharo stable VM for macOS: <a href="https://files.pharo.org/get-files/120/pharo-vm-Darwin-x86_64-stable.zip">Intel 64bit</a> | <a href="https://files.pharo.org/get-files/120/pharo-vm-Darwin-arm64-stable.zip">Apple Silicon (default)</a></li>
-<li><i class="fa fa-linux"></I> Pharo stable VM for Linux: <a href="https://files.pharo.org/get-files/120/pharo-vm-Linux-x86_64-stable.zip">64bit (default)</a> | <a href="https://files.pharo.org/get-files/100/pharo-linux-stable.zip">32bit</a>  (WARNING: This linux builds were made for Debian based distributions, in any other case, we recommend to use the OBS based package).</li>
-<li>Pharo image: <a href="https://files.pharo.org/image/120/latest-64.zip">64bit (default)</a> | <a href="https://files.pharo.org/image/100/stable-32.zip">32bit</a></li>
+<li><i class="fa fa-windows"></I> Pharo stable VM for Windows: <a href="https://files.pharo.org/get-files/130/pharo-vm-Windows-x86_64-stable.zip">64bit (default)</a> | 
+ <a href="https://files.pharo.org/get-files/130/pharo-vm-Windows-X86-stable.zip">32bit</a></li>
+<li><i class="fa fa-apple"></I> Pharo stable VM for macOS: <a href="https://files.pharo.org/get-files/130/pharo-vm-Darwin-x86_64-stable.zip">Intel 64bit</a> | <a href="https://files.pharo.org/get-files/130/pharo-vm-Darwin-arm64-stable.zip">Apple Silicon (default)</a></li>
+<li><i class="fa fa-linux"></I> Pharo stable VM for Linux: <a href="https://files.pharo.org/get-files/130/pharo-vm-Linux-x86_64-stable.zip">64bit (default)</a> | <a href="https://files.pharo.org/get-files/100/pharo-linux-stable.zip">32bit</a>  (WARNING: This linux builds were made for Debian based distributions, in any other case, we recommend to use the OBS based package).</li>
+<li>Pharo image: <a href="https://files.pharo.org/image/130/pharoImage-x86_64.zip">x86_64 (default)</a> |  
+                 <a href="https://files.pharo.org/image/130/pharoImage-arm64.zip">ARM 64</a> | 
+                 <a href="https://files.pharo.org/image/130/pharoImage-aarch64.zip">AARCH 64</a></li>
 </ul>
 
   </div>
 
 </div>
 
-
+	
 <div class="row">
 
-  <div class="col-md-12">
-
-## Older Versions
-
-
-Downloads of previous versions are available on the [Pharo file server](https://files.pharo.org/).
+  roImage-x86_64.zip">x86_64 (default)</a> | <a href="https://files.pharo.org/image/130/pharoImage-x86_64.zip">64bits (x86_64)</a>
+##
+(https://files.pharo.org/).
   </div>
 
-</div>
-
-</div>
-
+</3iv33
+##
+(https:arm64/files.pharo.oARM 64  </div
+ARM/div>aarch64v>
+AARARCH 64
