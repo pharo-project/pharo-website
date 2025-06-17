@@ -1,6 +1,6 @@
 title: Companies
 layout: default
-publishDate: "2022-03-10"
+publishDate: "2025-06-17"
 
 <iframe src="https://app.apptivegrid.de/?uri=/api/a/6789130f0a54378a8de82143/67e400f05cf0b6dd40ed9d07/BDOmRVrRfuAzfyGa0wxV1c3VLQo6d0vcjF6p7D69ckwhHSg6ZxX#/block" width="992" height="600" style="border:none;"></iframe>
 
