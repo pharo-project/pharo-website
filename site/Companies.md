@@ -9,7 +9,6 @@ Old entries:
 - [https://nootrix.com](https://nootrix.com)
 - [https://www.apptivegrid.de](https://www.apptivegrid.de)
 - [http://www.synectique.eu](http://www.synectique.eu)
-- [http://zweidenker.de/pharo](http://zweidenker.de)
 - [http://netstyle.ch](http://netstyle.ch)
 - [http://sharedlogic.ca](http://sharedlogic.ca)
 - [https://www.lifeware.ch](https://www.lifeware.ch)
@@ -23,5 +22,4 @@ Old entries:
 - [http://www.beta9.be](http://www.beta9.be)
 - [http://pharopro.com](http://pharopro.com)
 - [http://www.sorabito.com](http://www.sorabito.com)
-- [http://www.infotechpartners.be](http://www.infotechpartners.be)
 - [https://www.thalesgroup.com/](https://www.thalesgroup.com/)
