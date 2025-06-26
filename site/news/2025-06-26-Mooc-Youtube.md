@@ -7,5 +7,5 @@ All the videos from the [Advanced-Design MOOC](https://www.fun-mooc.fr/en/course
 
 This gives you easy access to the 65 MOOC videos and helps you focus on the topics that interest you most.
 
-Check it out [here](https://www.youtube.com/playlist?list=PL2okA_2qDJ-k9qaQomNEoAo_sA2LsE2Y3).
+Check it out [here](https://tinyurl.com/3krcwbdf).
 
