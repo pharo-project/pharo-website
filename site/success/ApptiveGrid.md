@@ -34,6 +34,7 @@ Get you free account today to try it yourself!  [https://www.apptivegrid.de](htt
 - one Pharo image holds multiple soil databases open and provides memory caching for the objects
 - routing of requests is done with haproxy connection persistence
 - the web frontend is made with Vue.js and a Pharo library that we transpile to JS with PharoJS
+- Video from Smalltalks 2024: "ApptiveGrid: solve (business) problems without programming" [Youtube](https://www.youtube.com/watch?v=aPtsGswPJAc)
 
 ## More Infos
 
