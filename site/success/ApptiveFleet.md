@@ -1,4 +1,4 @@
-title: ApptiveFleet
+title: ApptiveFleet - Vehicle Management
 layout: blogpost
 publishDate: "2025-07-11"
 
