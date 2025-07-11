@@ -1,6 +1,8 @@
-title: ApptiveFleet - All the Tools for a Modern Fleet in One Place
+title: ApptiveFleet
 layout: blogpost
 publishDate: "2025-07-11"
+
+#  All the Tools for a Modern Fleet - In One Place
 
 With **ApptiveFleet**, digitize your vehicle management, automate inspection processes, and keep all costs, deadlines, and drivers under control — simply, efficiently, and in full compliance.
 
