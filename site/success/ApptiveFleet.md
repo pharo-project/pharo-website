@@ -33,6 +33,6 @@ Generate meaningful reports for audits and safety reviews. Export data easily as
 
 ---
 
-ApptiveFleet was built using [ApptiveGrid](https://www.apptivegrid.de) whith the backend running in Pharo. All data is stored using [Soil](https://github.com/ApptiveGrid/Soil).
+ApptiveFleet was built using [ApptiveGrid](https://www.apptivegrid.de) with the backend running in Pharo. All data is stored using [Soil](https://github.com/ApptiveGrid/Soil).
 
 More information about ApptiveGrid can be found in the success story [ApptiveGrid - Digitize and Automatize Business Processes](https://pharo.org/success/ApptiveGrid.html)
