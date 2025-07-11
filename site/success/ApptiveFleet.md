@@ -16,6 +16,8 @@ Automate your operations with needs-based workflows and a dynamic, customizable 
 ## Reporting & Export
 Generate meaningful reports for audits and safety reviews. Export data easily as clear dashboards or CSV files.
 
+![](file:///web/files/success/2025-07-ApptiveFleet.png width=800px)
+
 ## Features
 - Vehicle management  
 - Driver management  
