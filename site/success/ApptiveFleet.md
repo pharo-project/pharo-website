@@ -1,4 +1,4 @@
-title: ApptiveFleet - All the Tools for a Modern Fleet — In One Place
+title: ApptiveFleet - All the Tools for a Modern Fleet in One Place
 layout: blogpost
 publishDate: "2025-07-11"
 
