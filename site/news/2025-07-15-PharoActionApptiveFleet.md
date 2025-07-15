@@ -1,4 +1,4 @@
-title: [ANN] Pharo in Action: ApptiveFleet
+title: [ANN] Pharo in Action - ApptiveFleet
 layout: blogpost
 publishDate: "2025-07-15"
 
