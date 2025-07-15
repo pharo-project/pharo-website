@@ -10,6 +10,8 @@ ApptiveFleet is fleet management solution.
 
 ApptiveFleet was built using ApptiveGrid with the backend running in Pharo. All data is stored using Soil.
 
+Read the full post here:  [ApptiveFleet - Vehicle Management](https://pharo.org/success/ApptiveFleet.html).
+
 Norbert discussed both at last years Smallltalks conference:
 
 - ApptiveGrid: solve (business) problems without programming [Youtube](https://www.youtube.com/watch?v=aPtsGswPJAc)
