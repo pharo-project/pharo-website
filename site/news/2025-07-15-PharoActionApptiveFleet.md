@@ -2,7 +2,7 @@ title: [ANN] Pharo in Action - ApptiveFleet
 layout: blogpost
 publishDate: "2025-07-15"
 
-We just posted a new Success story: [ApptiveFleet - Vehicle Management](https://pharo.org/success/ApptiveFleet.html)
+We just posted a new success story: [ApptiveFleet - Vehicle Management](https://pharo.org/success/ApptiveFleet.html)
 
 ApptiveFleet is fleet management solution. 
 
