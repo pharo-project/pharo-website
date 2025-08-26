@@ -8,4 +8,4 @@ QqDataFruits observes a lot of pains in the application of data integration, con
 
 Having used several languages and platform for code - and metadata generation for ETL et ELT tooling, QQDatafruits was lucky to notice Pharo, a variant of Smalltalk, and got started with the Pharo MOOC. The introspective low code / complexity platform is fully Open Source, natively Visual, provides excellent RAD, prototyping and visualization capabilities out of the box. Pharo provides a real renaissance in a world crowded by bulk complexity and over-licensed industry dominance by providing a simple core and an amazingly productive set of libraries. QQDatafruits aims to use Pharo to enter and take its place in the Data Management tooling market. 
 
-📎 More info (german): [https://qqDataFruits.be](https://qqDataFruits.be)
+📎 More info: [https://qqDataFruits.be](https://qqDataFruits.be)
