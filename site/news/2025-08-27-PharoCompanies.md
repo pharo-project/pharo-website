@@ -25,6 +25,6 @@ Future:
 	
 For now, the page contains both the new and the old list, with the idea of removing the old entries eventually.
 
-If you are on the ESUG Mailinglist, you might have seen that there is thesame for ESUG, for Smalltalk in general.
+If you are on the ESUG Mailinglist, you might have seen that there is the same for ESUG, for Smalltalk in general.
 The link to add your company there is [https://esug.org/companies.html](https://esug.org/companies.html).
 
