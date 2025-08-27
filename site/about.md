@@ -36,6 +36,7 @@ The goal of Pharo is to sustain and grow business around Pharo.
 - Pharo is supported by the industrial [Pharo consortium - http://consortium.pharo.org](http://consortium.pharo.org)
 - Pharo has also an association of users: [Pharo association - http://association.pharo.org](http://association.pharo.org)
 
+For a list of companies using Pharo see [here](Companies)
 
 ## Pharo is open-source
 
