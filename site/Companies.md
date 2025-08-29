@@ -6,9 +6,7 @@ publishDate: "2025-06-17"
 
 Old entries are below, if your company is listed here, please re-submit it with the link above.
 
-- [https://nootrix.com](https://nootrix.com)
 - [https://www.apptivegrid.de](https://www.apptivegrid.de)
-- [http://www.synectique.eu](http://www.synectique.eu)
 - [http://netstyle.ch](http://netstyle.ch)
 - [http://sharedlogic.ca](http://sharedlogic.ca)
 - [https://www.lifeware.ch](https://www.lifeware.ch)
@@ -17,8 +15,6 @@ Old entries are below, if your company is listed here, please re-submit it with 
 - [http://yesplan.be](http://yesplan.be)
 - [http://tamere.eu](http://tamere.eu)
 - [http://www.mindclue.ch](http://www.mindclue.ch)
-- [http://www.inspired.org/](http://www.inspired.org/)
-- [http://spesenfuchs.de/](http://spesenfuchs.de/)
 - [http://www.beta9.be](http://www.beta9.be)
 - [http://pharopro.com](http://pharopro.com)
 - [http://www.sorabito.com](http://www.sorabito.com)
