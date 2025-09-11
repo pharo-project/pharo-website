@@ -1,4 +1,4 @@
-title: [ANN] Pharo Consortium New Academic Member: EMIT University of Fianarantsoa
+title: [ANN] Pharo Consortium New Academic Member EMIT University of Fianarantsoa
 layout: blogpost
 publishDate: "2025-09-11"
 
