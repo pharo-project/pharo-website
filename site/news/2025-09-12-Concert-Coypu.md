@@ -1,4 +1,4 @@
-title: [ANN] 18/09/2025: Live Coding and Djelecta with Lucretio + Coypu
+title: [ANN] Live Coding and Djelecta with Lucretio + Coypu 18/09/2025
 layout: blogpost
 publishDate: "2025-09-12"
 
