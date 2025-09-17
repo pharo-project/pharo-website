@@ -6,6 +6,6 @@ The [Fondation Université de Lille](https://fondation.univ-lille.fr) has select
 
 
 More information:
-	- [Project Pharo accepted for 2024 call](https://fondation.univ-lille.fr/projets/les-projets-en-cours/soutenir-les-excellences-scientifiques-et-pedagogiques/projet-pharo#c42873)
-	- Fondation Université de Lille [https://fondation.univ-lille.fr](https://fondation.univ-lille.fr)
-	- Pharo [http://pharo.org](http://pharo.org)
+- [Project Pharo accepted for 2024 call](https://fondation.univ-lille.fr/projets/les-projets-en-cours/soutenir-les-excellences-scientifiques-et-pedagogiques/projet-pharo#c42873)
+- Fondation Université de Lille [https://fondation.univ-lille.fr](https://fondation.univ-lille.fr)
+- Pharo [http://pharo.org](http://pharo.org)
