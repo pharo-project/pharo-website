@@ -26,4 +26,4 @@ Pandora Foyer (downstairs)
 **Saturday, May 30**  
 Venue: **Kino Šiška**
 
-More information: [here](https://wiki.ljudmila.org/Adela_2025_(en))
+More information: [here](https://wiki.ljudmila.org/Adela_2025)
