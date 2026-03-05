@@ -3,7 +3,7 @@ layout: blogpost
 publishDate: "2026-02-24"
 
 
-The next scheduled concerts with Coypu and Phausto:
+The next scheduled concerts with [Coypu](https://github.com/lucretiomsp/Coypu) and [Phausto](https://github.com/lucretiomsp/phausto):
 
 ### April 24 — TivoliVredenburg, Utrecht
 
