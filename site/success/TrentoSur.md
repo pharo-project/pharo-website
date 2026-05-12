@@ -24,11 +24,11 @@ mobile application, as well as web-based administration and dashboard
 features built with Seaside. This solution was released by the end of
 2013, and its been running flawlessly since then.
 
-![](file:///web/files/success/trentosur-ruteos-1.png width=800px)
+![](/files/success/trentosur-ruteos-1.png width=800px)
 
 Recently, it released a second software solution for the reception of
 transfer orders performed during trade fairs. The application runs in
 tablets, and the server comprises the same features as the previous
 one.
 
-![](file:///web/files/success/trentosur-transfers-1.png width=800px)
+![](/files/success/trentosur-transfers-1.png width=800px)

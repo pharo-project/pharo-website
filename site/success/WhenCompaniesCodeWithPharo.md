@@ -7,10 +7,10 @@
 Pharo is a programming language developed by researchers from the Evref project team. Used by several companies, it is appreciated for being open-source and dynamic. Learning this pure object language gives programmers precision and abstraction capabilities. Interviewed during ESUG 2024 (European Smalltalk User Group), users describe the benefits of Pharo.
 
 Stéphane Ducasse, researcher, head of the EVREF project team - Reflective Evolution of Ever-running Software Systems - a joint team between Inria, Université de Lille and Berger-Levrault.
-Johan Brichau, CTO of YesPlan.
-Pierre Laborde, engineer at Thales.
-Norbert Hartl, co-founder of ApptiveGrid.
-Vincent Blondeau, software engineer at Lifeware.
+- Johan Brichau, CTO of YesPlan.
+- Pierre Laborde, engineer at Thales.
+- Norbert Hartl, co-founder of ApptiveGrid.
+- Vincent Blondeau, software engineer at Lifeware.
 
 Also available with French subtitles or without subtitles https://mediatheque.inria.fr/Mediatheque/media/88711
 

@@ -6,7 +6,7 @@
 
 In the ever-evolving landscape of software development, Berger-Levrault faced a critical juncture as their applications approached maturity. With the imperative to align with new technological standards and stay ahead of the curve, the necessity for a groundbreaking solution became apparent. This is the story of how Casino, an innovative tool, not only met the challenge but exceeded expectations, propelling Berger-Levrault into a new era of efficiency and innovation.
 
-![](file:///web/files/success/2023-12-BergerLevrault-Casino.gif width=800px)
+![](/files/success/2023-12-BergerLevrault-Casino.gif width=800px)
 
 ## The Challenge: A Strategic Endeavor
 

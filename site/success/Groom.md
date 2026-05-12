@@ -4,7 +4,7 @@
 "publishDate" : "2023-06-05"
 }
 
-![](file:///web/files/success/2023-groom.jpg width=800px)
+![](/files/success/2023-groom.jpg width=800px)
 
 Groom (gRoom) is an office allocation software that allows you to efficiently manage the allocation or reservation of available office space in a building in flex-office mode.
 The application provides a quick overview of all the offices and their availability on a given date or during a given period based on a map. The tool gives the possibility to reserve an office for a person (permanently, regularly or occasionally) at a given date. The tool is collaborative and connected to a centralized database. The user can search for a person, an office, a building plan or a date.
