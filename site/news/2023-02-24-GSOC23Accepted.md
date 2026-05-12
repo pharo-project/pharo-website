@@ -1,6 +1,8 @@
-title: Pharo accepted to Google Summer of Code 2023
-layout: blogpost
-publishDate: "2023-02-24"
+{
+"title": "Pharo accepted to Google Summer of Code 2023",
+"layout": "blogpost",
+"publishDate": "2023-02-24"
+}
 
 We are happy to announce that we got accepted for this year Google Summer of Code!
 

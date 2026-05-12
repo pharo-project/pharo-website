@@ -1,6 +1,8 @@
-title: Pharo 12 Released!
-layout: blogpost
-publishDate: "2024-04-26"
+{
+"title": "Pharo 12 Released!",
+"layout": "blogpost",
+"publishDate": "2024-04-26"
+}
 
 Dear Pharo users and dynamic language lovers: 
 

@@ -31,20 +31,20 @@ a.column-header:hover {
 <div class="col-md-12">
     <div class="row">
         <div class="col-md-4">
-             <a class="btn btn-block btn-lg column-header" href="/features">Discover</a>
+             <a class="btn btn-block btn-lg column-header" href="{{{webRootPrefix}}}/features">Discover</a>
              <div class="column-content"> 
-Learn more about Pharo's key <a href="/features">features</a> and elegant design.
+Learn more about Pharo's key <a href="{{{webRootPrefix}}}/features">features</a> and elegant design.
 </div>
         </div>
         <div class="col-md-4">
-             <a class="btn btn-block btn-lg column-header" href="/download">Download</a>
+             <a class="btn btn-block btn-lg column-header" href="{{{webRootPrefix}}}/download">Download</a>
              <div class="column-content">
 Download latest version !<br/>
-Read more about <a href="/news/2025-05-21-pharo13-released.html">here</a>
+Read more about <a href="{{{webRootPrefix}}}/news/2024-04-26-pharo12-released.html">here</a>
  </div>
         </div>
         <div class="col-md-4">
-              <a class="btn btn-block btn-lg column-header" href="/documentation">Learn</a>
+              <a class="btn btn-block btn-lg column-header" href="{{{webRootPrefix}}}/documentation">Learn</a>
               <div class="column-content"> 
 Access the Pharo Mooc!<br/>
 3000 people registered and follow the Pharo Mooc. You can find it <a href="http://mooc.pharo.org">here</a>.<br/>

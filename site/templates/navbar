@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/web"><img src="/web/files/pharo-logo-small.png" alt="Pharo" srcset="/web/files/pharo-logo-small-2x.png 2x"/></a>
+      <a class="navbar-brand" href="{{{webRootPrefix}}}/"><img src="{{{webRootPrefix}}}/files/pharo-logo-small.png" alt="Pharo" srcset="{{{webRootPrefix}}}/files/pharo-logo-small-2x.png 2x"/></a>
     </div>    
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -15,8 +15,8 @@
          <!--
          <form class="navbar-form navbar-right">
             <div class="form-group">
-                <a class="btn btn-default" href="/web/download">Download latest version ($.0)</a>
-                <a class="btn" href="/web/documentation">Learn more</a>
+                <a class="btn btn-default" href="{{{webRootPrefix}}}/download">Download latest version ($.0)</a>
+                <a class="btn" href="{{{webRootPrefix}}}/documentation">Learn more</a>
             </div>
         </form>
         -->

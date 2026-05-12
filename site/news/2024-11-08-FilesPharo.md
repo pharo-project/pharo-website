@@ -1,6 +1,8 @@
-title: [ANN] Server update: files.pharo.org on November, 13th
-layout: blogpost
-publishDate: "2024-11-08"
+{
+"title": "[ANN] Server update: files.pharo.org on November, 13th",
+"layout": "blogpost",
+"publishDate": "2024-11-08"
+}
 
 
 We would like to inform you that we are currently setting up a new server to host Pharo files.

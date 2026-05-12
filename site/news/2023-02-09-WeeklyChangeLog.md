@@ -1,6 +1,8 @@
-title: Weekly ChangeLog Archive
-layout: blogpost
-publishDate: "2023-02-09"
+{
+"title": "Weekly ChangeLog Archive",
+"layout": "blogpost",
+"publishDate": "2023-02-09"
+}
 
 We are posting a weekly changelog to the [Dev Mailinglist](https://lists.pharo.org/list/pharo-users.lists.pharo.org)
 

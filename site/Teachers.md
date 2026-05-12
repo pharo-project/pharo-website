@@ -1,6 +1,8 @@
-title: Teachers
-layout: default
-publishDate: "2018-04-09"
+{
+"title" : "Teachers",
+"layout" : "default",
+"publishDate " : "2018-04-09"
+}
 
 Here is an incomplete list of Universities and schools using Pharo. If you are using Pharo and not on this list please contact us.
 
@@ -9,7 +11,7 @@ Here is an incomplete list of Universities and schools using Pharo. If you are u
 - Vrije Universiteit Brussels, Belgium
 - Uni. de Bretagne Occidentale, France
 - Uni. Catholic of Argentina, Argentina 
-- Federal University of Espírito Santo \(UFES\), Brazil
+- Federal University of Espírito Santo (UFES), Brazil
 - Uni. of Chile at Santiago, Chile 
 - Czech Technical Uni., Czech
 - CULS Prague, Czech

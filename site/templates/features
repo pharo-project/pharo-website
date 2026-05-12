@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+       <title>Pharo - {{{title}}}</title>
+       <link rel="shortcut icon" href="{{{webRootPrefix}}}/files/favicon.ico" />
+       <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+       <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/united/bootstrap.min.css">
+       <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+       <link rel="stylesheet" href="{{{webRootPrefix}}}/files/style.css">
+       <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+       <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+       <script src="{{{webRootPrefix}}}/files/ekko-lightbox.min.js"></script>
+       <script src="{{{webRootPrefix}}}/files/pharo.js"></script>
+       <link rel="stylesheet" href="{{{webRootPrefix}}}/files/ekko-lightbox.min.css">
+	<link rel="stylesheet" href="{{{webRootPrefix}}}/features.css">	   
+   </head>
+    
+    <body class="default">
+        <div id="wrap">
+            <div id="main">
+                {{> header}}
+
+                <div class="container">
+                    {{> main}}
+                </div>
+            </div>
+        </div>
+        {{> footer}}
+    </body>
+</html>

@@ -1,6 +1,8 @@
-title: TechTalk
-layout: default
-publishDate: "2020-02-21"
+{
+"title" : "TechTalk",
+"layout" : "default",
+"publishDate" : "2020-02-21"
+}
 
 We organize Pharo Tech Talks every last Thursday of the month. They happen on Discord, often with a Demo on youtube.
 

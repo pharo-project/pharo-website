@@ -1,6 +1,8 @@
-title: [ANN] Pharo Consortium New Bronze Member ApptiveGrid
-layout: blogpost
-publishDate: "2023-12-13"
+{
+"title": "[ANN] Pharo Consortium New Bronze Member ApptiveGrid",
+"layout": "blogpost",
+"publishDate": "2023-12-13"
+}
 
 The Pharo Consortium is very happy to announce that [ApptiveGrid GmbH](https://www.apptivegrid.de) has joined the Consortium as a Bronze Member.
 

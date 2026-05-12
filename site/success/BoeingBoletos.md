@@ -1,6 +1,8 @@
-title: Boletos, Boeing ticket system
-layout: blogpost
-publishDate: "2023-09-25"
+{
+"title" : "Boletos, Boeing ticket system",
+"layout": "blogpost",
+"publishDate": "2023-09-25"
+}
 
 ![](file:///web/files/success/2023-Boeing-Boletos.png width=800px)
 
@@ -8,4 +10,4 @@ The Boeing final assembly plant is located in Everett Washington and is the larg
 
 ![](file:///web/files/success/2023-Boeing-Boletos2.png width=800px)
 
-The ticket system for Boeing has unique requirements. Tours occur on a schedule and have limited capacity. General admission tickets to the center have no fixed inventory component. Boeing has begun offering special events and workshops. Each of these different activities has specific and unique requirements. The system also serves multiple classes of users from self-service sales to the public to on site counter agents and even a call center with telephone service reps. The decision was taken to replace the older system with a new more flexible design based on Pharo Smalltalk and Seaside. The system, called Boletos, allows flexible scheduling and rescheduling of visits, and assembly of visit packages for groups and tours as well as payment processing, barcode scanner based ticket taking, and provides a variety of reports on visitor demographics.
+The ticket system for Boeing has unique requirements. Tours occur on a schedule and have limited capacity. General admission tickets to the center have no fixed inventory component. Boeing has begun offering special events and workshops. Each of these different activities has specific and unique requirements. The system also serves multiple classes of users from self-service sales to the public to on-site counter agents and even a call center with telephone service reps. The decision was taken to replace the older system with a new more flexible design based on Pharo Smalltalk and Seaside. The system, called Boletos, allows flexible scheduling and rescheduling of visits, and assembly of visit packages for groups and tours as well as payment processing, barcode scanner-based ticket taking, and provides a variety of reports on visitor demographics.

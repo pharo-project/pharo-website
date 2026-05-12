@@ -1,6 +1,8 @@
-title: Groom
-layout: blogpost
-publishDate: "2023-06-05"
+{
+"title" : "Groom",
+"layout" : "blogpost",
+"publishDate" : "2023-06-05"
+}
 
 ![](file:///web/files/success/2023-groom.jpg width=800px)
 

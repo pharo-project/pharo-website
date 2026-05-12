@@ -1,0 +1,86 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+.featureColumn {
+  float: left;
+  width: 545px;
+}
+
+.featureColumn ul {
+  margin: 10px;
+}
+
+.featureColumn h2 {
+  margin: 10px;
+  color: #3297d4;
+}
+
+.pictureColumn {
+  float: right;
+  width: 517px;
+  margin: 0;
+  padding: 0;
+}
+
+.odd > .featureColumn {
+  float: left;
+}
+
+.even > .featureColumn {
+  float: right;
+}
+
+.odd > .pictureColumn {
+  float: right;
+}
+
+.even > .pictureColumn {
+  float: left;
+}
+
+.featureRow {
+  width: 1062px;
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.featureRow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.pictureDescription {
+  font-size: smaller;
+  margin: 10px;
+  border-radius: 50px;
+  padding: 20px 50px;
+  font-style: italic;
+}
+
+.odd > .featureColumn > .pictureDescription {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(198, 213, 224, 0) 0%,
+    rgba(175, 206, 227, 1) 100%
+  );
+  text-align: right;
+}
+
+.even > .featureColumn > .pictureDescription {
+  background: linear-gradient(
+    -90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(198, 213, 224, 0) 0%,
+    rgba(175, 206, 227, 1) 100%
+  );
+  text-align: left;
+}

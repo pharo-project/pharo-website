@@ -1,7 +1,8 @@
-title: Insights
-layout: default
-publishDate: "2023-09-15"
-
+{
+"title" : "Insights",
+"layout" : "default",
+"publishDate" : "2023-09-15"
+}
 
 ## Roassal Arts
 
