@@ -9,18 +9,23 @@ jobs:
     name: "Generate site"
     runs-on: ubuntu-22.04
     steps: 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.4.4
+        uses: pillar-markup/Foliage@master
         with:
-          source: './site'
-          target: 'generated'
+          source: site
+          retention-days: 5
+        
+      - name: Replace baseUri
+        run: |
+          sed -i 's|"baseUri" : "https://pharo.org"|"baseUri" : "https://staging.pharo.org"|g' generated/FoliageConfig.json
+
       - name: "Upload to server"
         uses: up9cloud/action-rsync@v1.3
         env:
-          KEY: ${{secrets.SERVER_SSH_KEY}}
-          USER: ${{secrets.REMOTE_USER}}
-          HOST: ${{secrets.REMOTE_HOST}}
-          TARGET: ${{secrets.REMOTE_TARGET}}
+          KEY: ${{ secrets.SERVER_SSH_KEY }}
+          USER: ${{ secrets.REMOTE_USER }}
+          HOST: ${{ secrets.REMOTE_HOST }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
           SOURCE: generated/
-          POST_SCRIPT: "cd ${{secrets.REMOTE_TARGET}} && ln -s . web"
