@@ -18,6 +18,10 @@ jobs:
         with:
           source: site
           retention-days: 5
+        
+      - name: Replace baseUri
+        run: |
+          sed -i 's|"baseUri" : "https://pharo.org"|"baseUri" : "https://staging.pharo.org"|g' generated/FoliageConfig.json
 
       - name: "Upload to server"
         uses: up9cloud/action-rsync@v1.3
