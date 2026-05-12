@@ -1,6 +1,8 @@
-title: Insights
-layout: default
-publishDate: "2023-09-15"
+{
+"title": "Insights",
+"layout" : "default",
+"publishDate" : "2023-09-15"
+}
 
 This page selected some interesting presentations over the course of the year. Feel free to contribute.
 
@@ -35,8 +37,8 @@ Generated videos with music input and roassal: [http://github.com/ObjectProfile/
 - (soon available) Debugger - ESUG 2023	
 - Object Centric Debugger - ESUG 2022 [video](https://www.youtube.com/watch?v=C-lG73CJVtU)
 - GIT 	
-    - Do you understand Git? - ESUG 2018	[Video](https://www.youtube.com/watch?v=gFb9BaBZ8ko)
-		- Iceberg - ESUG 2018 [video](https://www.youtube.com/watch?v=-ujX0Jt7-64)
+	- Do you understand Git? - ESUG 2018	[Video](https://www.youtube.com/watch?v=gFb9BaBZ8ko)
+	- Iceberg - ESUG 2018 [video](https://www.youtube.com/watch?v=-ujX0Jt7-64)
 
 ## Virtual Machines
 - Permanent space ESUG 2022
@@ -48,13 +50,13 @@ Generated videos with music input and roassal: [http://github.com/ObjectProfile/
 - Pharo Things	https://www.youtube.com/watch?v=iKmcvKw3M4k
 - Pharo IOT https://www.youtube.com/watch?v=KzuyvhVThV0
 
-## Docket 
-			https://www.youtube.com/watch?v=Ncdrk5Bd9fY
+## Docker
+- https://www.youtube.com/watch?v=Ncdrk5Bd9fY
 
 ## IA 
 - Pharo-IA
 - PharoPolymath
 
 ## Platforms
--	Cormas ESUG 2023
+- Cormas ESUG 2023
 - Moose 

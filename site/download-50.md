@@ -1,6 +1,8 @@
-title: Download (50)
-layout: default
-publishDate: "2016-11-09"
+{
+"title" : "Download (50)",
+"layout" : "default",
+"publishDate" : "2016-11-09"
+}
 
 <div class="teaser">
 
@@ -10,12 +12,14 @@ publishDate: "2016-11-09"
 
 **Version 5.0** for OS X, GNU/Linux, and Windows. The zip files contain all necessary files. Just download and run the executable.
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-mac.zip"><i class="fa fa-apple"></i> Mac OSX</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-mac.zip"><i class="fa fa-apple"></i> Mac OSX
+</a>
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-win.zip"><i class="fa fa-windows"></i> Windows</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-win.zip"><i class="fa fa-windows"></i> Windows
+</a>
 
-<a class="btn download" href="http://pharo.org/gnu-linux-installation-50"><i class="fa fa-linux"></i> GNU/Linux</a>
-
+<a class="btn download" href="http://pharo.org/gnu-linux-installation-50"><i class="fa fa-linux"></i> GNU/Linux
+</a>
 
 </div>
 
@@ -50,9 +54,7 @@ When downloads are completed, uncompress all files and put them into the same di
 - [Windows virtual machine](http://files.pharo.org/get-files/50/pharo-win-stable.zip)
 - GNU/Linux virtual machine - Besides the [generic binary](http://files.pharo.org/get-files/50/pharo-linux-stable.zip), there are pre-built VMs for [systems with libc < 2.15](http://files.pharo.org/vm/pharo-spur32/linux/old-libc/Pharo-VM-linux-oldLibC.zip) \(e.g. Debian 7 "wheezy"\), and [CentOS](http://files.pharo.org/vm/pharo-spur32/linux/centos/latest.zip). NB: If you're on 64-bit GNU/Linux, see [our instructions to prepare your system](http://pharo.org/gnu-linux-installation#64-bit-System-Setup)
 
-<!--
-- *Raspbian virtual machine (not JIT)>http://files.pharo.org/vm/pharoS/raspbian/latest.zip*
--->
+
 
 
 ### Minimal image

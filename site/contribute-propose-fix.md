@@ -1,12 +1,14 @@
-title: Contribute - Propose a fix
-layout: default
-publishDate: "2019-02-12"
+{
+"title": "Contribute - Propose a fix",
+"layout": "default",
+"publishDate" : "2019-02-12"
+}
 
 <div class="teaser">
 
 # Contributing to Pharo
 
-<p><i class="fa fa-heart"></i> In a giving mood? There are many ways to get involved!</p>
+In a giving mood? There are many ways to get involved!
 
 </div>
 

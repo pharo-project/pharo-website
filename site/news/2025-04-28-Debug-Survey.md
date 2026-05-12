@@ -1,6 +1,8 @@
-title: [Survey] Debug Scenarios
-layout: blogpost
-publishDate: "2025-04-28"
+{
+"title" : "[Survey] Debug Scenarios",
+"layout" : "blogpost",
+"publishDate" : "2025-04-28"
+}
 
 Rémi Dufloer is currently conducting a study on how developers handle certain bug scenarios.
 The goal is to better understand current practices, the tools used, and developers' needs regarding debugging in a specific scenario.

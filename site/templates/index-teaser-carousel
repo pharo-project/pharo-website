@@ -8,12 +8,12 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/web/files/teaser50.png" alt="Pharo 5.0 White">
+      <img src="{{{webRootPrefix}}}/files/teaser50.png" alt="Pharo 5.0 White">
       <div class="carousel-caption">
       </div>
     </div>
     <div class="item">
-      <img src="/web/files/teaser50-black.png" alt="Pharo 5.0 Dark">
+      <img src="{{{webRootPrefix}}}/files/teaser50-black.png" alt="Pharo 5.0 Dark">
       <div class="carousel-caption">
       </div>
     </div>

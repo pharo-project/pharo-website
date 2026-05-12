@@ -1,6 +1,8 @@
-title: Community
-layout: default
-publishDate: 2021-11-04
+{
+"title" : "Community",
+"layout" : "default",
+"publishDate" : "2021-11-04"
+}
 
 # Community & help
 

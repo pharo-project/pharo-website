@@ -1,6 +1,8 @@
-title: About
-layout: default
-publishDate: 2021-07-12
+{
+"title" : "About",
+"layout" : "default",
+"publishDate" : "2021-07-12"
+}
 
 # About Pharo
 
@@ -32,11 +34,10 @@ Check the great page [Feature explained](features)
 
 ## Pharo and Business
 
-The goal of Pharo is to sustain and grow business around Pharo.
+The goal of Pharo is to sustain and grow the business around Pharo.
 - Pharo is supported by the industrial [Pharo consortium - http://consortium.pharo.org](http://consortium.pharo.org)
 - Pharo has also an association of users: [Pharo association - http://association.pharo.org](http://association.pharo.org)
 
-For a list of companies using Pharo see [here](Companies)
 
 ## Pharo is open-source
 
@@ -58,4 +59,4 @@ Pharo has a board composed of [Marcus Denker](http://marcusdenker.de/), [Stephan
 
 The role of the board is to take decisions if in the future the community can't decide on a course of action.
 
-</div>
+s</div>

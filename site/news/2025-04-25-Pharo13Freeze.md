@@ -1,7 +1,8 @@
-title: [ANN] Pharo 13 Freeze
-layout: blogpost
-publishDate: "2025-04-24"
-
+{
+"title" : "[ANN] Pharo 13 Freeze",
+"layout" : "blogpost",
+"publishDate" : "2025-04-24"
+}
 We are coming close to the Pharo13 release date (TBA).
 
 Thus, we are freezing the branch for new features, and we opened the Pharo14 branch for new developments.

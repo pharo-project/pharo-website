@@ -1,6 +1,8 @@
-title: What is to deliver Pharo?
-layout: default
-publishDate: 2021-07-12
+{
+"title" : "What is to deliver Pharo?",
+"layout" : "default",
+"publishDate" : "2021-07-12"
+}
 
 # What is to deliver Pharo?
 
@@ -117,7 +119,7 @@ It is in no way exhaustive.
 
 We hope that now you see that delivering Pharo is a large task.
 
-
+</div>
 
 
 

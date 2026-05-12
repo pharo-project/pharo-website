@@ -1,7 +1,8 @@
-title: [ANN] Phausto Concerts Utrecht and Ljubljana
-layout: blogpost
-publishDate: "2026-02-24"
-
+{
+"title" : "[ANN] Phausto Concerts Utrecht and Ljubljana",
+"layout" : "blogpost",
+"publishDate" : "2026-02-24"
+}
 
 The next scheduled concerts with [Coypu](https://github.com/lucretiomsp/Coypu) and [Phausto](https://github.com/lucretiomsp/phausto):
 

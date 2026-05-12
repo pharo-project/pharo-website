@@ -1,6 +1,8 @@
-title: Pharo 2023 Summer School
-layout: blogpost
-publishDate: "2023-07-11"
+{
+"title": "Pharo 2023 Summer School",
+"layout": "blogpost",
+"publishDate": "2023-07-11"
+}
 
 We are happy to announce that once again, Pharo Consortium is organizing an international cost-free summer school for Students.
 

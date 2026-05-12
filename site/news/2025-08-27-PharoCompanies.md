@@ -1,25 +1,26 @@
-title: [Wanted] Companies using Pharo
-layout: blogpost
-publishDate: "2025-08-27"
-
+{
+"title" : "[Wanted] Companies using Pharo",
+"layout" : "blogpost",
+"publishDate" : "2025-08-27"
+}
 
 We have a list of Pharo Companies at [https://pharo.org/Companies](https://pharo.org/Companies).
 
-A problem of course was that the list got out of date quite quickly.
+A problem of course, was that the list got out of date quite quickly.
 
-We now have improved it:
+We have now improved it:
 
-- there is a form to add a new company
-- the contact person will get a link to update the infos at any time
-- the system sends a mail every year to the contact to remind to check if the data is still current
+- There is a form to add a new company
+- The contact person will get a link to update the information at any time
+- The system sends an email every year to the contact to remind them to check if the data is still current
 - website is rendered directly from the data
 	
-The current page still has a simple rendering: all companies alphabetically.
+The current page still has a simple rendering: all companies are listed alphabetically.
 But with the data we will be able to improve this step by step, so consider adding the info not currently used (e.g. map position, logo...)
 
 Future:
 
-- nicer page, e.g. with company logos
+- nicer page, e.g., with company logos
 - check links regularly (and send mail in case it is broken)
 - interactive map
 	

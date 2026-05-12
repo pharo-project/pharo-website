@@ -1,6 +1,8 @@
-title: Download - GNU/Linux installation (50)
-layout: default
-publishDate: "2016-04-28"
+{
+"title" : "Download - GNU/Linux installation (50)",
+"layout" : "default",
+"publishDate" : "2016-04-28"
+}
 
 <div class="teaser">
 
@@ -10,11 +12,14 @@ publishDate: "2016-04-28"
 @standard-downloads
 **Version 5.0** for several common GNU/Linux configurations. The zip files contain everything necessary. Just download and run the executable. For more download options, see the sections below.
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-linux.zip"><i class="fa fa-linux"></i> Default GNU/Linux</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-linux.zip"><i class="fa fa-linux"></i> Default GNU/Linux
+</a>
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-linux-oldLibC.zip"><i class="fa fa-linux"></i> GNU/Linux w. libc < 2.15</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-linux-oldLibC.zip"><i class="fa fa-linux"></i> GNU/Linux w. libc < 2.15
+</a>
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-centos.zip"><i class="fa fa-linux"></i> CentOS </a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo5.0-centos.zip"><i class="fa fa-linux"></i> CentOS
+</a>
 
 
 </div>

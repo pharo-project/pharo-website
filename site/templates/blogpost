@@ -7,19 +7,19 @@
                 {{> header}}
 
                 <div class="container">
-                    <h1><a href="{{pathString}}">{{title}}</a></h1>
+                    <h1><a href="{{{pathString}}}">{{{title}}}</a></h1>
                     {{> main}}
                     <div class="date">{{publicationDate}}</div>
                   			
                   	<div>
                   		<div class="col-left" style="float: left">
                   			{{# previousPost }}
-			          		&lt;-- <a href="{{pathString}}">{{title}}</a>
+			          		&lt;-- <a href="{{{pathString}}}">{{title}}</a>
       						{{/ previousPost }}
       					</div>
                   		<div class="col-right" style="float: right">
 		      				{{# nextPost }}
-					        <a href="{{pathString}}">{{title}}</a> --&gt;
+					        <a href="{{{pathString}}}">{{title}}</a> --&gt;
 		      				{{/ nextPost }}
       					</div>
       				</div>

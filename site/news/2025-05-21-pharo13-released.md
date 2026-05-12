@@ -1,7 +1,8 @@
-title: Pharo 13 Released!
-layout: blogpost
-publishDate: "2025-05-21"
-
+{
+"title" : "Pharo 13 Released!",
+"layout" : "blogpost",
+"publishDate" : "2025-05-21"
+}
 Dear Pharo users and dynamic language lovers: 
 
 We have released [Pharo](https://pharo.org/) version 13!
@@ -78,8 +79,8 @@ Thank you all for your contributions.
 
 The Pharo Team
 
-Discover Pharo: [https://pharo.org/features](https://pharo.org/features)
+- Discover Pharo: [https://pharo.org/features](https://pharo.org/features)
 
-Try Pharo: [http://pharo.org/download](http://pharo.org/download)
+- Try Pharo: [http://pharo.org/download](http://pharo.org/download)
 
-Learn Pharo: [http://pharo.org/documentation](http://pharo.org/documentation)
+- Learn Pharo: [http://pharo.org/documentation](http://pharo.org/documentation)

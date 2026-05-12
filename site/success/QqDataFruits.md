@@ -1,6 +1,8 @@
-title: QqDataFruits
-layout: blogpost
-publishDate: "2025-08-26"
+{
+"title" : "QqDataFruits",
+"layout": "blogpost",
+"publishDate": "2025-08-26"
+}
 
 ##  QqDataFruits
 

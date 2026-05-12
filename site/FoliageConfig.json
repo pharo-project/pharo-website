@@ -1,0 +1,8 @@
+{
+	"baseUri" : "https://pharo.org",
+	
+	"blogs" : [ 
+		"news": "Pharo News", 
+		"success" :  "Pharo Success Stories"
+	]
+}

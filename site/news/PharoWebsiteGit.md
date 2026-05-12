@@ -1,6 +1,8 @@
-title: Pharo Website source now on GitHub
-layout: blogpost
-publishDate: "2023-02-01"
+{
+"title": "Pharo Website source now on GitHub",
+"layout": "blogpost",
+"publishDate": "2023-02-01"
+}
 
 In 2022, we moved the Pharo Website to a new setup: it is now generated from static files (still using Pharo)
 

@@ -1,7 +1,8 @@
-title: [ANN] Fondation Université de Lille supports Pharo
-layout: blogpost
-publishDate: "2025-09-17"
-
+{
+"title" : "[ANN] Fondation Université de Lille supports Pharo",
+"layout" : "blogpost",
+"publishDate" : "2025-09-17"
+}
 The [Fondation Université de Lille](https://fondation.univ-lille.fr) has selected Pharo as a supported project for the 2024 call.
 
 

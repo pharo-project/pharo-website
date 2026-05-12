@@ -1,6 +1,8 @@
-title: Pharo on Mastodon
-layout: blogpost
-publishDate: "2023-02-07"
+{
+"title": "Pharo on Mastodon",
+"layout": "blogpost",
+"publishDate": "2023-02-07"
+}
 
 Besides the Pharo twitter [@pharoproject](https://twitter.com/pharoproject) we are on mastodon, since 2018:
 

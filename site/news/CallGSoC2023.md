@@ -1,6 +1,8 @@
-title: Call for project ideas Google Summer of Code
-layout: blogpost
-publishDate: "2023-02-02"
+{
+"title": "Call for project ideas Google Summer of Code",
+"layout": "blogpost",
+"publishDate": "2023-02-02"
+}
 
 As Pharo community we are postulating to Google Summer of Code 2023. We would like to have new brand ideas for this new edition! We would like to know if there are people in the community that have some cool project ideas :)
 

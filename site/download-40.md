@@ -1,28 +1,30 @@
-title: Download (40)
-layout: default
-publishDate: "2016-05-06"
+{
+"title" : "Download (40)",
+"layout" : "default",
+"publishDate" : "2016-05-06"
+}
 
 <div class="teaser">
-
 
 # Download Pharo
 
 
 **Version 4.0** for OS X, GNU/Linux, and Windows. The zip files contain all necessary files. Just download and run the executable.
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo4.0-mac.zip"><i class="fa fa-apple"></i> Mac OSX</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo4.0-mac.zip"><i class="fa fa-apple"></i> Mac OSX
+</a>
 
-<a class="btn download" href="http://files.pharo.org/platform/Pharo4.0-win.zip"><i class="fa fa-windows"></i> Windows</a>
+<a class="btn download" href="http://files.pharo.org/platform/Pharo4.0-win.zip"><i class="fa fa-windows"></i> Windows
+</a>
 
-<a class="btn download" href="http://pharo.org/gnu-linux-installation"><i class="fa fa-linux"></i> GNU/Linux</a>
-
+<a class="btn download" href="gnu-linux-installation"><i class="fa fa-linux"></i> GNU/Linux
+</a>
 
 </div>
 
 
 
 ## Prefer the Command Line?
-
 
 _Just because Pharo developers are addicted to our live, dynamic IDE does not mean that we do not value automatic scripts and love the command line! Zeroconf scripts automatically download everything you need to get started. It will recognize your platform and load the appropriate VM version._ - Adapted from the [Deep Into Pharo](http://deepintopharo.com/) book.
 
@@ -80,4 +82,6 @@ This is **temporary**, until we stabilise the new Virtual Machine based in spur 
 
 Downloads of previous versions are available on the [Pharo file server](http://files.pharo.org/).
 
-<a href="https://flattr.com/submit/auto?user_id=Pharo&url=http%3A%2F%2Fpharo.org" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+<a href="https://flattr.com/submit/auto?user_id=Pharo&url=http%3A%2F%2Fpharo.org" target="_blank">
+<img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0">
+</a>
