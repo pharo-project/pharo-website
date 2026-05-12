@@ -11,9 +11,14 @@ jobs:
     name: "Generate site"
     runs-on: ubuntu-22.04
     steps: 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.4.4
+        uses: pillar-markup/Foliage@master
+        with:
+          source: site
+          retention-days: 5
+
       - name: "Upload to server"
         uses: up9cloud/action-rsync@v1.3
         env:
@@ -22,4 +27,3 @@ jobs:
           HOST: ${{ secrets.REMOTE_HOST }}
           TARGET: ${{ secrets.REMOTE_STAGING_TARGET }}
           SOURCE: generated/
-          POST_SCRIPT: "cd ${{ secrets.REMOTE_TARGET }} && ln -s . web"
