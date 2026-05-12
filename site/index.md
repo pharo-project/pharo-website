@@ -29,7 +29,9 @@
 </div>
 </form>
 </div>
-Follow us on Mastodon: <a href="https://mastodon.social/@pharoproject">@pharoproject@mastodon.social</a>
+Follow us on Mastodon: 
+<a href="https://mastodon.social/@pharoproject">@pharoproject@mastodon.social
+</a>
 </div>
 
 <div class="topic">
