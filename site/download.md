@@ -52,7 +52,7 @@ The fastest way to get a working Pharo environment: image \(an object space with
         <br/> 
     </div> 
 </div> 
-}}}ss
+}}}
 </div>
 
 </div>
