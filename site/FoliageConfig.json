@@ -1,6 +1,5 @@
 {
-	"baseUri" : "https://pharo-project.github.io/",
-	"webRootPrefix" : "/PharoWeb20",
+	"baseUri" : "https://pharo.org",
 	
 	"blogs" : [ 
 		"news": "Pharo News", 
