@@ -21,10 +21,10 @@ On the other hand, ApptiveGrid is a workflow system where you can define your wo
 ![](/files/success/2024-02-ApptiveGrid2.png width=800px)
 
 
-With the combination of both parts, ApptiveGrid is able to solve many of modern digital workflows. It enables you to make it for a low cost and in almost no time which are two pretty good reasons to use it.
+With the combination of both parts, ApptiveGrid is able to solve many of modern digital workflows. It enables you to make it for a low cost and in almost no time, which are two pretty good reasons to use it.
 
 
-Get your free account today to try it yourself!  [https://www.apptivegrid.de](https://www.apptivegrid.de)
+Get your free account today to try it yourself! [https://www.apptivegrid.de](https://www.apptivegrid.de)
 
 
 ## About the tech stack
@@ -33,8 +33,8 @@ Get your free account today to try it yourself!  [https://www.apptivegrid.de](ht
 - It uses [Zinc Components](https://github.com/svenvc/zinc) for the HTTP frontend
 - and [Soil](https://github.com/ApptiveGrid/Soil) as the persistence solution.
 - Each user has its own database (an empty soil database is 24kb on disk).
-- one Pharo image holds multiple soil databases open and provides memory caching for the objects
-- routing of requests is done with haproxy connection persistence
+- One Pharo image holds multiple soil databases open and provides memory caching for the objects
+- routing of requests is done with HAProxy connection persistence
 - the web frontend is made with Vue.js and a Pharo library that we transpile to JS with PharoJS
 
 ## More Infos

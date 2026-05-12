@@ -1,7 +1,7 @@
 {
-"title": "ApptiveFleet - Vehicle Management",
-"layout": "blogpost",
-"publishDate": "2025-07-11"
+"title" : "ApptiveFleet - Vehicle Management",
+"layout" : "blogpost",
+"publishDate" : "2025-07-11"
 }
 
 ##  All the Tools for a Modern Fleet - In One Place
