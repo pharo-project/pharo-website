@@ -183,4 +183,4 @@ https://github.com/pharo-graphics/Spec-Toplo/compare/v0.9.0...v0.10.0
 
 
 Cheers,
-Mart=C3=ADn
+Martin
