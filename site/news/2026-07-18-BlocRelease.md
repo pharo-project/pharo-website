@@ -23,29 +23,27 @@ https://esug.org/2026-Conference/agenda.html.
 
 #### What's Changed
 
-
-   - Addin the ability to duplicate a Image Surface by @tesonep
+- Addin the ability to duplicate a Image Surface by @tesonep
       https://github.com/tesonep in #124
       https://github.com/pharo-graphics/Alexandrie/pull/124
--  Test duplicate and copy device scale and offset by @tinchodias
+- Test duplicate and copy device scale and offset by @tinchodias
       https://github.com/tinchodias in #125
       https://github.com/pharo-graphics/Alexandrie/pull/125
--  Initialize enumerations in baseline + Refactoring + Do not assume
-      SDL2 is present by @tinchodias https://github.com/tinchodias in #12=
-6
+- Initialize enumerations in baseline + Refactoring + Do not assume
+      SDL2 is present by @tinchodias https://github.com/tinchodias in #126
       https://github.com/pharo-graphics/Alexandrie/pull/126
--  Add group without tests by @tinchodias
+- Add group without tests by @tinchodias
       https://github.com/tinchodias in #120
       https://github.com/pharo-graphics/Alexandrie/pull/120
--  Fix AeCairoLibraryTest by @tinchodias
+- Fix AeCairoLibraryTest by @tinchodias
       https://github.com/tinchodias in #129
       https://github.com/pharo-graphics/Alexandrie/pull/129
--  Move to FFIStructure and FFIArray by @tinchodias
+- Move to FFIStructure and FFIArray by @tinchodias
       https://github.com/tinchodias in #127
       https://github.com/pharo-graphics/Alexandrie/pull/127
 
 Full Changelog: v2.8.0...v2.9.0
-https://github.com/pharo-graphics/Alexandrie/compare/v2.8.0...v2.9.0
+- https://github.com/pharo-graphics/Alexandrie/compare/v2.8.0...v2.9.0
 
 
 
@@ -61,7 +59,7 @@ v0.3.0 https://github.com/pharo-graphics/PharoSDL3/releases/tag/v0.3.0.
 #### What's Changed
 
 
-   - Pass on demo browser and its model by @tinchodias
+- Pass on demo browser and its model by @tinchodias
       https://github.com/tinchodias in #849
       https://github.com/pharo-graphics/Bloc/pull/849
 -  Take into account the value of space's fullscreen attribute on open
@@ -91,12 +89,11 @@ v0.3.0 https://github.com/pharo-graphics/PharoSDL3/releases/tag/v0.3.0.
 
 #### New Contributors
 
-
 - @badetitou https://github.com/badetitou made their first
       contribution in #854 https://github.com/pharo-graphics/Bloc/pull/854
 
 Full Changelog: v2.8.0...v2.9.0
-https://github.com/pharo-graphics/Bloc/compare/v2.8.0...v2.9.0
+- https://github.com/pharo-graphics/Bloc/compare/v2.8.0...v2.9.0
 
 
 
