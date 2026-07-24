@@ -6,7 +6,7 @@
 
 {{{ 
 <div>
-	Subscribe to the Pharo Newsletter: <a href="https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/6a61d042e21c2929776f1e23/BDOmRVrRfuAzfyGa0ypTVPhXX4jucmFuTAYtS4FbgH4ZCWcxj2Z">Subscribe to the Pharo Newsletter</a> <p>
+	Subscribe to the Pharo Newsletter: <a href="https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/6a61d042e21c2929776f1e23/BDOmRVrRfuAzfyGa0ypTVPhXX4jucmFuTAYtS4FbgH4ZCWcxj2Z">Subscribe here</a> <p>
 	Follow us on Mastodon: <a href="https://mastodon.social/@pharoproject">@pharoproject@mastodon.social</a>
 </div>
 }}}
