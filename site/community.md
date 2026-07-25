@@ -23,7 +23,7 @@ If you have any questions regarding Pharo, do not hesitate to post in the Pharo 
 ## Mailing lists
 
 - **Pharo Newsletter** [On Hold] How to get a monthly overview of the projects happening in Pharo. 
-  - Subscribe [here](https://us11.list-manage.com/subscribe?u=6f667565c2569234585a7be77&id=048680a940)
+  - Subscribe [here](	https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/6a61d042e21c2929776f1e23/BDOmRVrRfuAzfyGa0ypTVPhXX4jucmFuTAYtS4FbgH4ZCWcxj2Z)
   - There is an [archive](http://us11.campaign-archive1.com/home/?u=6f667565c2569234585a7be77&id=048680a940)
 - Mailinglist at [https://lists.pharo.org](https://lists.pharo.org), among others:
   - The [Pharo-users](https://lists.pharo.org/list/pharo-users.lists.pharo.org) mailing list is for users of Pharo. It is a friendly place where any question about Pharo is welcome. [Archive](https://lists.pharo.org/empathy/list/pharo-users.lists.pharo.org)
