@@ -14,20 +14,14 @@ We hang out on Discord \(Invitation at [https://discord.gg/QewZMZa](https://disc
 
 You can get an instant invite following this [link](https://discord.gg/QewZMZa).
 
-## Q&A Community
-
-
-If you have any questions regarding Pharo, do not hesitate to post in the Pharo mailing lists or on Discord Team \(Invitation at [https://discord.gg/QewZMZa](https://discord.gg/QewZMZa)\). You may use [StackOverflow](http://stackoverflow.com/tags/pharo) but we do not use it much and prefer the mailing list or discord. Be sure to tag your question with the pharo tag, so that your question is not lost amongst all the questions on StackOverflow.
-
-
 ## Mailing lists
 
-- **Pharo Newsletter** [On Hold] How to get a monthly overview of the projects happening in Pharo. 
+- **Pharo Newsletter** How to get a monthly overview of the projects happening in Pharo. 
   - Subscribe [here](	https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/6a61d042e21c2929776f1e23/BDOmRVrRfuAzfyGa0ypTVPhXX4jucmFuTAYtS4FbgH4ZCWcxj2Z)
   - There is an [archive](http://us11.campaign-archive1.com/home/?u=6f667565c2569234585a7be77&id=048680a940)
 - Mailinglist at [https://lists.pharo.org](https://lists.pharo.org), among others:
-  - The [Pharo-users](https://lists.pharo.org/list/pharo-users.lists.pharo.org) mailing list is for users of Pharo. It is a friendly place where any question about Pharo is welcome. [Archive](https://lists.pharo.org/empathy/list/pharo-users.lists.pharo.org)
-  - The [Pharo-dev](https://lists.pharo.org/list/pharo-dev.lists.pharo.org) mailing-list is the main tool of communication concerning the development of Pharo. [Archive](https://lists.pharo.org/empathy/list/pharo-dev.lists.pharo.org)
+  - The [Pharo-users](https://lists.pharo.org/postorius/lists/pharo-users.lists.pharo.org) mailing list is for users of Pharo. It is a friendly place where any question about Pharo is welcome. [Archive](https://lists.pharo.org/hyperkitty/list/pharo-users@lists.pharo.org/)
+  - The [Pharo-dev](https://lists.pharo.org/postorius/lists/pharo-dev.lists.pharo.org/) mailing-list is the main tool of communication concerning the development of Pharo. [Archive](https://lists.pharo.org/hyperkitty/list/pharo-dev@lists.pharo.org/)
 
 
 
