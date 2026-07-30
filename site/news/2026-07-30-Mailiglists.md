@@ -1,5 +1,5 @@
 {
-"title" : "[ANN] Phraro Mailinglist Infrastructure Improvement",
+"title" : "[ANN] Pharo Mailinglist Infrastructure Improvement",
 "layout" : "blogpost",
 "publishDate" : "2026-07-30"
 }
