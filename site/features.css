@@ -7,8 +7,8 @@ h1 {
 }
 
 .featureColumn {
-  float: left;
-  width: 545px;
+  flex: 1 1 340px;
+  min-width: 0;
 }
 
 .featureColumn ul {
@@ -21,40 +21,34 @@ h1 {
 }
 
 .pictureColumn {
-  float: right;
-  width: 517px;
+  flex: 0 1 517px;
+  min-width: 0;
   margin: 0;
   padding: 0;
 }
 
-.odd > .featureColumn {
-  float: left;
+.pictureColumn img {
+  max-width: 100%;
+  height: auto;
 }
 
-.even > .featureColumn {
-  float: right;
+.odd {
+  flex-direction: row;
 }
 
-.odd > .pictureColumn {
-  float: right;
-}
-
-.even > .pictureColumn {
-  float: left;
+.even {
+  flex-direction: row-reverse;
 }
 
 .featureRow {
-  width: 1062px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
   margin: 0;
   padding: 0;
   margin-top: 60px;
   margin-bottom: 40px;
-}
-
-.featureRow:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 .pictureDescription {
@@ -83,4 +77,16 @@ h1 {
     rgba(175, 206, 227, 1) 100%
   );
   text-align: left;
+}
+
+@media (max-width: 767px) {
+  .odd,
+  .even {
+    flex-direction: column;
+  }
+
+  .pictureDescription {
+    padding: 15px 25px;
+    border-radius: 25px;
+  }
 }
