@@ -6,7 +6,7 @@
 
 {{{
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/VtRyJnBmEE0?si=QbUfx_Z74RWuaB-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube.com/embed/VtRyJnBmEE0?si=QbUfx_Z74RWuaB-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 }}}
 
