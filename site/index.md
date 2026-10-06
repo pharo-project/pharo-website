@@ -4,6 +4,13 @@
 "publishDate": "2021-02-01"
 }
 
+{{{
+
+<iframe width="112" height="63" src="https://www.youtube.com/embed/VtRyJnBmEE0?si=QbUfx_Z74RWuaB-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+}}}
+
+
 {{{ 
 <div>
 	Subscribe to the Pharo Newsletter: <a href="https://app.apptivegrid.de/api/r/6789130f0a54378a8de82143/6a61d042e21c2929776f1e23/BDOmRVrRfuAzfyGa0ypTVPhXX4jucmFuTAYtS4FbgH4ZCWcxj2Z">Subscribe here</a> <p>
