@@ -97,4 +97,3 @@ The Pharo Team
 - Discover Pharo: [https://pharo.org/features](https://pharo.org/features)
 - Try Pharo: [http://pharo.org/download](https://pharo.org/download)
 - Learn Pharo: [http://pharo.org/documentation](https://pharo.org/documentation)
-[Date]
