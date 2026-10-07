@@ -15,6 +15,7 @@ Pharo is a pure object-oriented programming language and a powerful environment 
 - Amazing debugging experience: Pharo environment includes a debugger unlike anything you've seen before. It allows you to step through code, restart the execution of methods, create methods on the fly, and much more!
 - Pharo is yours: Pharo is made by an incredible community, with more than [X] contributors for the last revision of the platform and hundreds of people constantly contributing with frameworks and libraries.
 - Fully open-source: Pharo full stack is released under [MIT](https://opensource.org/licenses/MIT) License and available on [GitHub](https://github.com/pharo-project/pharo)
+
 ... more on the [Pharo Features page](http://www.pharo.org/features).
 
 In this iteration of Pharo, our efforts have concentrated on three main areas:
