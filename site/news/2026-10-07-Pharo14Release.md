@@ -1,5 +1,6 @@
 {
 "title": "Pharo 14 Released!",
+"layout": "blogpost",
 "publishDate": "2026-10-08"
 }
 
