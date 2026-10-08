@@ -9,9 +9,8 @@ jobs:
     name: "Generate site"
     runs-on: ubuntu-22.04
     steps: 
-      - uses: actions/checkout@v2
       - name: "Generate static HTML"
-        uses: pillar-markup/Foliage@master
+        uses: estebanlm/foliage-action@v1.4.4
         with:
-          source: site
+          source: './site'
           target: 'generated'
