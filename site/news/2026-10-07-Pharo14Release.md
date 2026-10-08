@@ -1,3 +1,8 @@
+{
+"title": "Pharo 14 Released!",
+"publishDate": "2026-10-08"
+}
+
 # Pharo 14 Released!
 
 Dear Pharo users and dynamic language lovers:
