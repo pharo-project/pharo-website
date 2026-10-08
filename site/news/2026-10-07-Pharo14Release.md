@@ -85,13 +85,13 @@ We have closed 616 issues since Pharo 13.
 The project now counts 432 forks and 1,494 stars on GitHub.
 We also have a lot of work in the separate projects that are included in each Pharo release:
 
-- [http://github.com/pharo-spec/NewTools](https://github.com/pharo-spec/NewTools)
-- [http://github.com/pharo-spec/Spec](https://github.com/pharo-spec/Spec)
-- [http://github.com/pharo-vcs/Iceberg](https://github.com/pharo-vcs/Iceberg)
+- [https://github.com/pharo-spec/NewTools](https://github.com/pharo-spec/NewTools)
+- [https://github.com/pharo-spec/Spec](https://github.com/pharo-spec/Spec)
+- [https://github.com/pharo-vcs/Iceberg](https://github.com/pharo-vcs/Iceberg)
 - [https://github.com/pharo-graphics/Roassal](https://github.com/pharo-graphics/Roassal)
-- [http://github.com/pillar-markup/Microdown](http://github.com/pillar-markup/Microdown)
-- [http://github.com/pillar-markup/BeautifulComments](http://github.com/pillar-markup/BeautifulComments)
-- [http://github.com/pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm)
+- [https://github.com/pillar-markup/Microdown](https://github.com/pillar-markup/Microdown)
+- [https://github.com/pillar-markup/BeautifulComments](https://github.com/pillar-markup/BeautifulComments)
+- [https://github.com/pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm)
 
 ## Contributors
 
