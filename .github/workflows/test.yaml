@@ -11,7 +11,7 @@ jobs:
     steps: 
       - uses: actions/checkout@v2
       - name: "Generate static HTML"
-        uses: estebanlm/foliage-action@v1.4.4
+        uses: pillar-markup/Foliage@master
         with:
-          source: './site'
+          source: site
           target: 'generated'
