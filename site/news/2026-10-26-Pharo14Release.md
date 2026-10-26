@@ -1,10 +1,8 @@
 {
 "title": "Pharo 14 Released!",
 "layout": "blogpost",
-"publishDate": "2026-10-08"
+"publishDate": "2026-10-26"
 }
-
-# Pharo 14 Released!
 
 Dear Pharo users and dynamic language lovers:
 
