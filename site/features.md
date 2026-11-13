@@ -3,7 +3,7 @@
 "layout" : "features",
 "publishDate" : "2020-02-04"
 }
-
+{{{
 <div>
 <center>
 <h1>
@@ -673,4 +673,4 @@ Here are some of them:
 <img src="https://files.pharo.org/web-images/carousel/OSIApproved.png" alt="OSIApproved">
 </div>
 </div>
-
+}}}
