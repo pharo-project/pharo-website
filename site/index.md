@@ -24,7 +24,7 @@
 ### A glimpse of Pharo
 
 ```
-$ wget -O- https://get.pharo.org/64 | bash 
+$ wget -O- https://get.pharo.org/64/140+vm | bash 
 $ ./pharo Pharo.image eval "42 factorial"
 ```
 
